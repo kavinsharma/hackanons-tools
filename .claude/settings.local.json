@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.torrenttrackerlist.com)",
+      "Bash(ls -la /Users/kavin/Desktop/work/trackers_list/ && wc -l /Users/kavin/Desktop/work/trackers_list/*)",
+      "WebFetch(domain:newtrackon.com)",
+      "WebFetch(domain:github.com)",
+      "Bash(npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm 2>&1 | tail -20)",
+      "Bash(mv .claude /tmp/.claude_backup && npx create-next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-npm 2>&1 | tail -20)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(lsof -ti:3001 | xargs kill -9 2>/dev/null; echo \"done\")",
+      "Bash(lsof -ti:3000 | xargs kill -9 2>/dev/null; lsof -ti:3001 | xargs kill -9 2>/dev/null; sleep 1)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -i 'datatable\\\\|table\\\\|column\\\\|uptime\\\\|latency\\\\|class.*table\\\\|thead\\\\|<th' | head -30)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -o 'ajax.*url[^}]*}' | head -5)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -o 'ajax[^,]*' | head -5)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -o \"DataTable[^;]*;\" | head -5)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -A 30 'trackon_table.*DataTable')",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -o '<tbody>.*</tbody>' | sed 's/<tr/\\\\n<tr/g' | head -5)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -c '<tr')",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep '<tr' | head -3)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | sed -n '/<tbody>/,/<\\\\/tbody>/p' | head -60)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | grep -A 20 '<th>Tracker URL')",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | sed -n '/<tr>/,/<\\\\/tr>/p' | head -80)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | python3 -c \"\nimport sys, re, json\n\nhtml = sys.stdin.read\\(\\)\n\n# Extract rows between thead end and table end\nrows = re.findall\\(r'<tr>\\\\s*<td>\\(.*?\\)</tr>', html, re.DOTALL\\)\n\ntrackers = []\nfor row in rows[:3]:\n    cells = re.findall\\(r'<td[^>]*>\\(.*?\\)</td>', row, re.DOTALL\\)\n    if len\\(cells\\) >= 9:\n        tracker = {\n            'url': cells[0].strip\\(\\),\n            'uptime': cells[1].strip\\(\\),\n            'status_raw': cells[2].strip\\(\\),\n            'latency': cells[8].strip\\(\\),\n        }\n        # Extract country\n        country = re.search\\(r'</span>\\\\s*\\(\\\\w[\\\\w\\\\s]*\\)', cells[6]\\)\n        tracker['country'] = country.group\\(1\\).strip\\(\\) if country else ''\n        # Extract network\n        network = re.sub\\(r'<[^>]+>', '', cells[7]\\).strip\\(\\).split\\('\\\\n'\\)[0].strip\\(\\)\n        tracker['network'] = network\n        # Status\n        if 'Working' in cells[2]:\n            duration = re.search\\(r'Working for \\(.*?\\)<', cells[2]\\)\n            tracker['status'] = 'up'\n            tracker['status_duration'] = duration.group\\(1\\).strip\\(\\) if duration else ''\n        else:\n            duration = re.search\\(r'Down for \\(.*?\\)<', cells[2]\\)\n            tracker['status'] = 'down'\n            tracker['status_duration'] = duration.group\\(1\\).strip\\(\\) if duration else ''\n        \n        trackers.append\\(tracker\\)\n\nprint\\(json.dumps\\(trackers, indent=2\\)\\)\n\" 2>&1 | head -40)",
+      "Bash(curl -s \"https://newtrackon.com/\" 2>&1 | python3 -c \"\nimport sys, re, json\nfrom html.parser import HTMLParser\n\nhtml = sys.stdin.read\\(\\)\n\n# Split into rows properly - find all td content in order\n# Each tracker row has exactly 10 td cells\nall_tds = re.findall\\(r'<td[^>]*>\\(.*?\\)</td>', html, re.DOTALL\\)\n\n# Skip header row tds \\(th tags\\), start from first data row\n# Group tds into rows of 10\nrows = [all_tds[i:i+10] for i in range\\(0, len\\(all_tds\\), 10\\)]\n\ntrackers = []\nfor row in rows[:3]:\n    if len\\(row\\) < 10:\n        continue\n    \n    url = re.sub\\(r'<[^>]+>', '', row[0]\\).strip\\(\\)\n    uptime = re.sub\\(r'<[^>]+>', '', row[1]\\).strip\\(\\)\n    \n    status_html = row[2]\n    if 'Working' in status_html:\n        status = 'up'\n        m = re.search\\(r'Working for \\(.*?\\)<', status_html\\)\n        duration = m.group\\(1\\).strip\\(\\) if m else ''\n    else:\n        status = 'down'\n        m = re.search\\(r'Down for \\(.*?\\)<', status_html\\)\n        duration = m.group\\(1\\).strip\\(\\) if m else ''\n    \n    ip_raw = re.sub\\(r'<[^>]+>', ' ', row[5]\\).strip\\(\\)\n    ips = [x.strip\\(\\) for x in ip_raw.split\\(\\) if x.strip\\(\\)]\n    \n    country_match = re.findall\\(r'</span>\\\\s*\\([\\\\w\\\\s]+\\)', row[6]\\)\n    countries = [c.strip\\(\\) for c in country_match if c.strip\\(\\)]\n    \n    network = re.sub\\(r'<[^>]+>', ' ', row[7]\\).strip\\(\\).split\\(\\)\n    network = ' '.join\\(network[:3]\\) if network else ''\n    \n    latency = re.sub\\(r'<[^>]+>', '', row[8]\\).strip\\(\\)\n    added = re.sub\\(r'<[^>]+>', '', row[9]\\).strip\\(\\)\n    \n    trackers.append\\({\n        'url': url,\n        'uptime': uptime,\n        'status': status,\n        'status_duration': duration,\n        'ips': ips,\n        'country': countries[0] if countries else '',\n        'network': network,\n        'latency': latency,\n        'added': added,\n    }\\)\n\nprint\\(json.dumps\\(trackers[:5], indent=2\\)\\)\nprint\\(f'Total rows parsed: {len\\(trackers\\)}'\\)\n\" 2>&1)",
+      "Bash(rm -f data/trackers.json && lsof -ti:3000 | xargs kill -9 2>/dev/null; sleep 1)",
+      "Bash(sleep 3 && curl -s http://localhost:3000/torrent-trackers-list 2>&1 | grep -o 'List View\\\\|Detailed View\\\\|Live\\\\|tracker-database' | head -10)",
+      "Bash(curl -s http://localhost:3000/torrent-trackers-list 2>&1 | grep -o 'dark:' | wc -l)",
+      "Bash(sleep 3 && curl -s http://localhost:3000/torrent-trackers-list 2>&1 | grep -o 'custom-variant\\\\|where\\(.dark' | head -5)",
+      "Bash(curl -s http://localhost:3000/torrent-trackers-list 2>&1 | grep -o \"localStorage.getItem.*theme\" | head -1)",
+      "Bash(grep -r \"gtag\\\\|ga\\\\|google\\\\|analytics\\\\|adsense\\\\|ads-by-google\" /Users/kavin/Desktop/work/trackers_list/src --include=\"*.tsx\" --include=\"*.ts\" 2>/dev/null | head -20)",
+      "Bash(lsof -ti:3000 | xargs kill -9 2>/dev/null; sleep 1 && npm run build 2>&1 | tail -30)",
+      "Bash(sleep 10 && echo \"=== ROBOTS.TXT ===\" && curl -s http://localhost:3000/robots.txt && echo \"\" && echo \"=== SITEMAP ===\" && curl -s http://localhost:3000/sitemap.xml && echo \"\" && echo \"=== META TAGS ===\" && curl -s http://localhost:3000/torrent-trackers-list | grep -oP '<meta[^>]+>' | head -20 && echo \"\" && echo \"=== STRUCTURED DATA ===\" && curl -s http://localhost:3000/torrent-trackers-list | grep -o 'application/ld+json' | wc -l && echo \"JSON-LD blocks found\" && echo \"\" && echo \"=== OG IMAGE ===\" && curl -sI http://localhost:3000/og-torrent-trackers.png | head -5)",
+      "Bash(curl -s http://localhost:3000/torrent-trackers-list | grep -o '<meta[^>]*>' | head -25)",
+      "Bash(lsof -ti:3000 | xargs kill -9 2>/dev/null; sleep 1 && docker build -t trackers-list . 2>&1 | tail -20)",
+      "Bash(docker run:*)",
+      "Bash(docker stop:*)"
+    ]
+  }
+}

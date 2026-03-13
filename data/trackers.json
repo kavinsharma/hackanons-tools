@@ -1,0 +1,7317 @@
+{
+  "best": [
+    {
+      "url": "udp://tracker.opentrackr.org:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.demonii.com:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.stealth.si:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://torrent.tracker.durukanbal.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrent.eu.org:451/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.theoks.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.srv00.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.qu.ax:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.dler.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.corpscorp.online:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bluefrog.pw:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bittor.pw:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.alaskantf.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-udp.gbitt.info:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://t.overflow.biz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker.lanta.me:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://opentracker.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.dstud.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ns575949.ip-51-222-82.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://martin-gebhardt.eu:25/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://exodus.desync.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://evan.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://d40969.acod.regrucolo.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bandito.byterunner.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.zhuqiy.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.pmman.tech:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.moeblog.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.zukizuki.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://cny.fan:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.tritan.gg:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.skyts.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.renfei.net:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.mywaifu.best:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dhitechnical.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.bt4g.com:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://open.acgtracker.com:1096/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://lucke.fenesisu.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bvarf.tracker.sh:2086/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://utracker.ghostchu-services.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://udp.tracker.projectk.org:23333/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tryhackx.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrust-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.therarbg.to:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.t-1.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.plx.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.playground.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.opentorrent.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ixuexi.click:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.gmi.gd:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.fnix.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.flatuslifir.is:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.1h.is:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-de-2.cutie.dating:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tr4ck3r.duckdns.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.ghostchu-services.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.nyacat.pw:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://t.213891.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://shahidrazi.online:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://bt.okmp3.ru:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wegkxfcivgx.ydns.eu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://extracker.dahrkael.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.qingwapt.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.riverarmy.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://taciturn-shadow.spb.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv6.rer.lol:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4.rer.lol:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://torrentvpn.club:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://uabits.today:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.xn--djrq4gl4hvoi.top:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.manager.v6.navy:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.dler.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.iochimari.moe:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.novy.vip:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.waaa.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://bt.rer.lol:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://http1.torrust-tracker-demo.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://udp1.torrust-tracker-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.004430.xyz:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://004430.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.nekomi.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.exe.in.th:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.ipv6tracker.ru:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.breizh.pm:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://echostar.ddnsfree.com:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://speedtest.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://ftp.pet:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.yggleak.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.zhuqiy.dgj055.icu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://admin.52ywp.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.beeimg.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.yume-hatsuyuki.moe:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.trackerstatus.live:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker-zhuqiy.xn--1r3au8b.space:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.filemail.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.torrentonline.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://1337.abcvg.info:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://ibksturm.synology.me:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://asiatorrent.giize.com:51413/announce",
+      "protocol": "http"
+    }
+  ],
+  "all": [
+    {
+      "url": "udp://tracker.opentrackr.org:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.opentrackr.org:1337/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://open.demonii.com:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.stealth.si:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://torrent.tracker.durukanbal.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrent.eu.org:451/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.theoks.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.srv00.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.qu.ax:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.dler.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.corpscorp.online:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bluefrog.pw:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bittor.pw:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.alaskantf.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-udp.gbitt.info:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://t.overflow.biz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker.lanta.me:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://opentracker.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.dstud.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.demonoid.ch:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ns575949.ip-51-222-82.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://martin-gebhardt.eu:25/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://explodie.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://exodus.desync.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://evan.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://d40969.acod.regrucolo.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bandito.byterunner.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://6ahddutb1ucc3cp.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.zhuqiy.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.pmman.tech:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.moeblog.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.iperson.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.bt4g.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.zukizuki.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://cny.fan:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://wepzone.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker2.dler.org:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.zhuqiy.com:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.wepzone.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.tritan.gg:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.skyts.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.renfei.net:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.qu.ax:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.mywaifu.best:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dler.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dler.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dhitechnical.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.darkness.services:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.bt4g.com:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.alaskantf.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.kxmp.cf:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://t.overflow.biz:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://open.acgtracker.com:1096/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://lucke.fenesisu.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bvarf.tracker.sh:2086/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://utracker.ghostchu-services.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://udp.tracker.projectk.org:23333/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker1.myporn.club:9337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tryhackx.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrust-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.therarbg.to:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.t-1.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.plx.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.playground.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.opentorrent.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ixuexi.click:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.gmi.gd:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.fnix.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.flatuslifir.is:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ducks.party:1984/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ddunlimited.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.1h.is:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-de-2.cutie.dating:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tr4ck3r.duckdns.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://torrentclub.online:54123/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://rekcart.duckdns.org:15480/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://leet-tracker.moe:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.ghostchu-services.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.gcrenwp.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.nyacat.pw:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://t.213891.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://shahidrazi.online:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.ghostchu-services.top:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.nyacat.pw:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.highstar.shop:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://extracker.dahrkael.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://1337.abcvg.info:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bt.okmp3.ru:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wegkxfcivgx.ydns.eu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://extracker.dahrkael.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.qingwapt.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.riverarmy.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://taciturn-shadow.spb.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv6.rer.lol:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4.rer.lol:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://torrentvpn.club:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://uabits.today:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.xn--djrq4gl4hvoi.top:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.manager.v6.navy:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.dler.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.iochimari.moe:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.novy.vip:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.waaa.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://bt.rer.lol:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://http1.torrust-tracker-demo.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://udp1.torrust-tracker-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.004430.xyz:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://004430.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.nekomi.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.exe.in.th:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.ipv6tracker.ru:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.breizh.pm:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://echostar.ddnsfree.com:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://speedtest.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://ftp.pet:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.yggleak.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.zhuqiy.dgj055.icu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://admin.52ywp.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.beeimg.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.yume-hatsuyuki.moe:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.trackerstatus.live:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker-zhuqiy.xn--1r3au8b.space:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.filemail.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.torrentonline.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://1337.abcvg.info:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://ibksturm.synology.me:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://asiatorrent.giize.com:51413/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.moeking.me:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://node01.madtia.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node02.madtia.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.huadongblower.xyz:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.sharebro.in:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.qingwa.pro:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://s1124554.ha012.t.mydomain.zone:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.23794.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.maya.no.eu.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cangku.moe:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://cn.pcfreetime.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.pcfreetime.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.guguan.000.pe:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://p4p.arenabg.com:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.cyberia.is:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker.hotplug.ru:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.gbitt.info:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.files.fm:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://bt1.archive.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt2.archive.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://torrenttracker.nwc.acsalaska.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://0205.uptm.ch:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://retracker01-msk-virt.corbina.net:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://z.mercax.com:53/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker1.bt.moack.co.kr:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://free.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ccp.ovh:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://fosstorrents.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://open.xxtor.com:3074/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://run.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.k.vu:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.farted.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker1.520.jp:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://thouvenin.cloud:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://new-line.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://moonburrow.club:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tamas3.ynh.fr:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.imgoingto.icu:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://www.2600.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt.ktrackers.com:6666/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.tamersunion.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://static.54.161.216.95.clients.your-server.de:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://jutone.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://t1.hloli.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.edkj.club:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.enitin.xyz:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://private.anonseed.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://trackers.mlsub.net:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://ryjer.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.ipfsscan.io:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://freedomalternative.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://region.nl1.privex.cc:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://ns1.monolithindustries.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://1c.premierzal.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://smurfsoft.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://canardscitrons.nohost.me:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ch3oh.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wg.mortis.me:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://yahor.of.by:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.0x7c0.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tk1.trackerservers.com:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.u-p.pw:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://p2p.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ttk2.nbaonlineservice.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://odd-hd.fr:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://mikrotik2.draatman.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://bt.xcty.eu.org:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.cloudit.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://bt.080609.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.jdx3.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.jamesthebard.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.vds.nz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://r.l5.ca:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://track3r.site:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.draatman.uk:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://t1.aag.moe:17715/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://seedpeer.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://amigacity.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.darkness.services:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.deadorbit.nl:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.silksa.co.za:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-us.silksa.co.za:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tk2.trackerservers.com:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://threads.canofsocks.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.xor.st:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://open.tracker.ink:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://mc.itscraftsoftware.my.id:8804/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://d13bttrck.duckdns.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.bjut.jp:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://api.ipv4online.uk:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.1048576.cn:17272/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tr1.aag.moe:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tr3.ysagin.top:2715/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://kiryuu-test.mywaifu.best:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://saltwood.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker4.leechshield.link:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.leechshield.link:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tk4.leechshield.link:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker2.itzmx.com:6961/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker1.itzmx.com:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker3.itzmx.com:6961/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker4.itzmx.com:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.valete.tf:9999/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.netmap.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://rt.tace.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://fleira.no:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://db.koikia.eu:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://s926723.ha016.t.mydomain.zone:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.aburaya.live:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cybar.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.nanoha.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://bt2.080609.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://brokenhelix.loseyourip.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://torrent.i.ng:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://files.project-cataclysm.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.lyretain.site:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://ns3109441.mypdns.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.expli.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://chihaya.de:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://joczo.duckdns.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://v74853.hosted-by-vdsina.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.guguan.us.kg:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cutie.dating:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://ttracker.just-h.party:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://asiatorrent.ddns.net:51413/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.tricitytorrents.com:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://opentracker.8880085.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://vps-dd0a0715.vps.ovh.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.alaskantf.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://tracker.tnl.one:8000/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://yuki.bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "https://tracker.belmult.online:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "udp://burmese.app:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://t.al.uy:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.chaoz.li:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://bittracker.nekosunevr.co.uk:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://play.aimisayo.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.x6c.co:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://laestrygonian.ooguy.com:9001/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://lotus-eater.mywire.org:9001/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node02.torrentonline.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://trackr.appolon.dev:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.bug38.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "http://tracker.file09.com:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://tracker.orsvarn.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://anna.bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.umunu.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "udp://navegador.click:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "http://tracker.imgdump.lol:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "https://tracker.puvvadi.net:443/announce",
+      "protocol": "https"
+    }
+  ],
+  "udp": [
+    {
+      "url": "udp://tracker.opentrackr.org:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.demonii.com:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.stealth.si:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.wepzone.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrent.eu.org:451/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.theoks.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.srv00.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.qu.ax:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.dler.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.corpscorp.online:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bluefrog.pw:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.bittor.pw:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.alaskantf.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-udp.gbitt.info:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://t.overflow.biz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker.lanta.me:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://opentracker.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.dstud.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.demonoid.ch:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ns575949.ip-51-222-82.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://martin-gebhardt.eu:25/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://explodie.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://exodus.desync.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://evan.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://d40969.acod.regrucolo.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bandito.byterunner.io:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://6ahddutb1ucc3cp.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://utracker.ghostchu-services.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://udp.tracker.projectk.org:23333/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker1.myporn.club:9337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tryhackx.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.torrust-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.therarbg.to:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.t-1.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.plx.im:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.playground.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.opentorrent.top:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ixuexi.click:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.gmi.gd:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.fnix.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.flatuslifir.is:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ducks.party:1984/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ddunlimited.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.1h.is:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-de-2.cutie.dating:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tr4ck3r.duckdns.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://torrentclub.online:54123/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://rekcart.duckdns.org:15480/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://leet-tracker.moe:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://extracker.dahrkael.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.riverarmy.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://torrentvpn.club:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://uabits.today:6990/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.dler.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt.rer.lol:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://udp1.torrust-tracker-demo.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.004430.xyz:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.breizh.pm:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://speedtest.iperson.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://admin.52ywp.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.yume-hatsuyuki.moe:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.trackerstatus.live:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.filemail.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.torrentonline.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ibksturm.synology.me:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node01.madtia.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node02.madtia.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.huadongblower.xyz:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.sharebro.in:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://p4p.arenabg.com:1337/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.cyberia.is:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker.hotplug.ru:2710/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt1.archive.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt2.archive.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://retracker01-msk-virt.corbina.net:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://z.mercax.com:53/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker1.bt.moack.co.kr:80/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://free.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.ccp.ovh:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.xxtor.com:3074/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://run.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.farted.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://thouvenin.cloud:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://new-line.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://moonburrow.club:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tamas3.ynh.fr:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://www.2600.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt.ktrackers.com:6666/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://static.54.161.216.95.clients.your-server.de:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://jutone.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.edkj.club:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://private.anonseed.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ryjer.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://freedomalternative.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ns1.monolithindustries.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://1c.premierzal.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://yahor.of.by:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.0x7c0.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tk1.trackerservers.com:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://open.u-p.pw:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://p2p.publictracker.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ttk2.nbaonlineservice.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://odd-hd.fr:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://mikrotik2.draatman.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.jamesthebard.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.vds.nz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://r.l5.ca:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.draatman.uk:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://seedpeer.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://amigacity.xyz:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.darkness.services:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.deadorbit.nl:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.silksa.co.za:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker-us.silksa.co.za:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tk2.trackerservers.com:8080/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.xor.st:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://d13bttrck.duckdns.org:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.1048576.cn:17272/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tr3.ysagin.top:2715/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker4.leechshield.link:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tk4.leechshield.link:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.valete.tf:9999/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://rt.tace.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://db.koikia.eu:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://brokenhelix.loseyourip.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://torrent.i.ng:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://files.project-cataclysm.ru:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://v74853.hosted-by-vdsina.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://vps-dd0a0715.vps.ovh.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.tnl.one:8000/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://yuki.bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://burmese.app:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.x6c.co:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://laestrygonian.ooguy.com:9001/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://lotus-eater.mywire.org:9001/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://node02.torrentonline.cc:42069/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://tracker.orsvarn.com:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://anna.bt.bontal.net:6969/announce",
+      "protocol": "udp"
+    },
+    {
+      "url": "udp://navegador.click:6969/announce",
+      "protocol": "udp"
+    }
+  ],
+  "http": [
+    {
+      "url": "http://tracker.opentrackr.org:1337/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wepzone.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker2.dler.org:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.zhuqiy.com:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.wepzone.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.tritan.gg:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.skyts.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.renfei.net:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.qu.ax:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.mywaifu.best:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dler.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dler.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.dhitechnical.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.darkness.services:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.bt4g.com:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.alaskantf.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.kxmp.cf:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://t.overflow.biz:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://open.acgtracker.com:1096/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://lucke.fenesisu.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bvarf.tracker.sh:2086/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.ghostchu-services.top:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.nyacat.pw:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr.highstar.shop:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://extracker.dahrkael.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://1337.abcvg.info:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bt.okmp3.ru:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wegkxfcivgx.ydns.eu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://taciturn-shadow.spb.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv6.rer.lol:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4.rer.lol:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.xn--djrq4gl4hvoi.top:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.waaa.moe:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.exe.in.th:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.ipv6tracker.ru:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://echostar.ddnsfree.com:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ftp.pet:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.zhuqiy.dgj055.icu:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.beeimg.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://asiatorrent.giize.com:51413/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://s1124554.ha012.t.mydomain.zone:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.23794.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://cn.pcfreetime.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.pcfreetime.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.guguan.000.pe:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.gbitt.info:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.files.fm:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://torrenttracker.nwc.acsalaska.net:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://0205.uptm.ch:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://fosstorrents.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.k.vu:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.enitin.xyz:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://region.nl1.privex.cc:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://smurfsoft.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://canardscitrons.nohost.me:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ch3oh.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://wg.mortis.me:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://bt.xcty.eu.org:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://t1.aag.moe:17715/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://open.tracker.ink:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://mc.itscraftsoftware.my.id:8804/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tr1.aag.moe:2095/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://kiryuu-test.mywaifu.best:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://saltwood.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker2.itzmx.com:6961/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker1.itzmx.com:8080/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker3.itzmx.com:6961/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker4.itzmx.com:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.netmap.top:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://fleira.no:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://s926723.ha016.t.mydomain.zone:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.lyretain.site:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://ns3109441.mypdns.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://chihaya.de:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://joczo.duckdns.org:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://asiatorrent.ddns.net:51413/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.tricitytorrents.com:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://t.al.uy:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.chaoz.li:2710/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://play.aimisayo.com:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://trackr.appolon.dev:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.file09.com:80/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.umunu.ru:6969/announce",
+      "protocol": "http"
+    },
+    {
+      "url": "http://tracker.imgdump.lol:6969/announce",
+      "protocol": "http"
+    }
+  ],
+  "https": [
+    {
+      "url": "https://torrent.tracker.durukanbal.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.zhuqiy.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.pmman.tech:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.moeblog.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.iperson.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.bt4g.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.zukizuki.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://cny.fan:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.ghostchu-services.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.gcrenwp.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tr.nyacat.pw:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://t.213891.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://shahidrazi.online:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.qingwapt.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.manager.v6.navy:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.iochimari.moe:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.novy.vip:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://http1.torrust-tracker-demo.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://004430.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.nekomi.cn:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.yggleak.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker-zhuqiy.xn--1r3au8b.space:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://1337.abcvg.info:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.moeking.me:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.qingwa.pro:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.maya.no.eu.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cangku.moe:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker1.520.jp:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.imgoingto.icu:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.tamersunion.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://t1.hloli.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://trackers.mlsub.net:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.ipfsscan.io:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cloudit.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://bt.080609.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.jdx3.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://track3r.site:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://threads.canofsocks.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.bjut.jp:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://api.ipv4online.uk:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.leechshield.link:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.aburaya.live:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cybar.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.nanoha.org:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://bt2.080609.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.expli.top:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.guguan.us.kg:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.cutie.dating:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://ttracker.just-h.party:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://opentracker.8880085.xyz:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.alaskantf.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.belmult.online:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://bittracker.nekosunevr.co.uk:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.bug38.com:443/announce",
+      "protocol": "https"
+    },
+    {
+      "url": "https://tracker.puvvadi.net:443/announce",
+      "protocol": "https"
+    }
+  ],
+  "ws": [],
+  "details": [
+    {
+      "url": "udp://open.stealth.si:80/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "4 months",
+      "latency": 54,
+      "latencyStr": "54 ms",
+      "country": "Norway",
+      "countryCode": "no",
+      "network": "Gigahost AS Gigahost",
+      "ip": [
+        "2a03:94e0:ffff:185:243:218:0:213",
+        "185.243.218.213"
+      ],
+      "added": "28-11-2016"
+    },
+    {
+      "url": "udp://tracker-udp.gbitt.info:80/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 22,
+      "latencyStr": "22 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "NForce Entertainment B.V. NFOrce Entertainment BV",
+      "ip": [
+        "2a00:1768:1001:26::183",
+        "109.201.134.183"
+      ],
+      "added": "22-5-2019"
+    },
+    {
+      "url": "http://bt.okmp3.ru:2710/announce",
+      "protocol": "http",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "29 days",
+      "latency": 276,
+      "latencyStr": "276 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Baxet Group Inc.",
+      "ip": [
+        "193.124.24.22"
+      ],
+      "added": "25-11-2020"
+    },
+    {
+      "url": "http://tracker.mywaifu.best:6969/announce",
+      "protocol": "http",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 55,
+      "latencyStr": "55 ms",
+      "country": "Finland",
+      "countryCode": "fi",
+      "network": "Hetzner Online GmbH",
+      "ip": [
+        "95.217.167.10"
+      ],
+      "added": "2-12-2021"
+    },
+    {
+      "url": "udp://open.demonii.com:1337/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "13 days",
+      "latency": 10850,
+      "latencyStr": "10850 ms",
+      "country": "New Zealand",
+      "countryCode": "nz",
+      "network": "ZAPPIE-HOST ZAPPIE-HOST",
+      "ip": [
+        "2a06:1280:f115::2",
+        "185.121.168.96"
+      ],
+      "added": "29-6-2022"
+    },
+    {
+      "url": "udp://tracker.fnix.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "24 days",
+      "latency": 27,
+      "latencyStr": "27 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "The Infrastructure Group B.V. The Infrastructure Group B.V.",
+      "ip": [
+        "2a04:52c0:129:4157::a80",
+        "5.255.124.190"
+      ],
+      "added": "10-8-2023"
+    },
+    {
+      "url": "udp://evan.im:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "7 days",
+      "latency": 219,
+      "latencyStr": "219 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "GoCodeIT Inc",
+      "ip": [
+        "74.119.150.221"
+      ],
+      "added": "12-10-2023"
+    },
+    {
+      "url": "udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "25 days",
+      "latency": 41,
+      "latencyStr": "41 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:30:fad6::dead:c0d3",
+        "107.189.2.131"
+      ],
+      "added": "1-11-2023"
+    },
+    {
+      "url": "udp://retracker.lanta.me:2710/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 112,
+      "latencyStr": "112 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "Lanta Networks",
+      "ip": [
+        "37.235.176.37"
+      ],
+      "added": "12-12-2023"
+    },
+    {
+      "url": "https://shahidrazi.online:443/announce",
+      "protocol": "https",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 33,
+      "latencyStr": "33 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Anexia Cloud Solutions GmbH netcup GmbH",
+      "ip": [
+        "2a00:11c0:47:3d36:d8cc:eff:fe66:34c6",
+        "37.120.182.83"
+      ],
+      "added": "10-1-2024"
+    },
+    {
+      "url": "udp://tracker.t-1.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 40,
+      "latencyStr": "40 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:30:f8f3:1f:b20a:a8c1:1337",
+        "107.189.7.165"
+      ],
+      "added": "12-7-2024"
+    },
+    {
+      "url": "http://wegkxfcivgx.ydns.eu:80/announce",
+      "protocol": "http",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 369,
+      "latencyStr": "369 ms",
+      "country": "South Africa",
+      "countryCode": "za",
+      "network": "AFRIHOST SP (PTY) LTD AFRIHOST SP (PTY) LTD",
+      "ip": [
+        "2c0f:f4c0::108",
+        "169.1.1.108"
+      ],
+      "added": "16-11-2024"
+    },
+    {
+      "url": "http://lucke.fenesisu.moe:6969/announce",
+      "protocol": "http",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "3 months",
+      "latency": 235,
+      "latencyStr": "235 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Oracle Corporation",
+      "ip": [
+        "207.211.184.229"
+      ],
+      "added": "9-3-2025"
+    },
+    {
+      "url": "http://tracker.renfei.net:8080/announce",
+      "protocol": "http",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "4 months",
+      "latency": 35,
+      "latencyStr": "35 ms",
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "network": "CloudFLARENET-EU CloudFLARENET-EU Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
+        "188.114.96.3",
+        "188.114.97.3"
+      ],
+      "added": "16-3-2025"
+    },
+    {
+      "url": "https://tr.nyacat.pw:443/announce",
+      "protocol": "https",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "18 days",
+      "latency": 59,
+      "latencyStr": "59 ms",
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "network": "CloudFLARENET-EU CloudFLARENET-EU Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
+        "188.114.96.3",
+        "188.114.97.3"
+      ],
+      "added": "17-4-2025"
+    },
+    {
+      "url": "udp://extracker.dahrkael.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "2 months",
+      "latency": 5,
+      "latencyStr": "5 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "netcup GmbH netcup GmbH",
+      "ip": [
+        "2a03:4000:2b:1c0f::1337",
+        "193.31.26.113"
+      ],
+      "added": "9-5-2025"
+    },
+    {
+      "url": "udp://tracker.1h.is:1337/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "2 months",
+      "latency": 44,
+      "latencyStr": "44 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:30:f922:35d4:58f4:75eb:1337",
+        "107.189.4.235"
+      ],
+      "added": "23-10-2025"
+    },
+    {
+      "url": "udp://tracker.flatuslifir.is:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 22,
+      "latencyStr": "22 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "iFog GmbH The Constant Company, LLC The Constant Company, LLC iFog GmbH iFog GmbH",
+      "ip": [
+        "2a0c:9a40:2201:10::1912",
+        "2a05:f480:1400:3363:5400:5ff:fe69:cd6f",
+        "209.250.249.67",
+        "193.148.251.93",
+        "45.134.88.121"
+      ],
+      "added": "28-11-2025"
+    },
+    {
+      "url": "udp://tracker.opentorrent.top:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 60,
+      "latencyStr": "60 ms",
+      "country": "Sweden",
+      "countryCode": "se",
+      "network": "Telia Company AB",
+      "ip": [
+        "81.230.84.201"
+      ],
+      "added": "12-12-2025"
+    },
+    {
+      "url": "udp://ns575949.ip-51-222-82.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "3 months",
+      "latency": 206,
+      "latencyStr": "206 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "OVH SAS",
+      "ip": [
+        "51.222.82.36"
+      ],
+      "added": "15-12-2025"
+    },
+    {
+      "url": "udp://tracker.bluefrog.pw:2710/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 75,
+      "latencyStr": "75 ms",
+      "country": "Sweden",
+      "countryCode": "se",
+      "network": "Fredrik Holmqvist Fredrik Holmqvist",
+      "ip": [
+        "2a00:16b0:242:25::14",
+        "88.80.22.67"
+      ],
+      "added": "28-12-2025"
+    },
+    {
+      "url": "udp://tracker.ixuexi.click:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "2 months",
+      "latency": 35,
+      "latencyStr": "35 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "velia.net Internetdienste GmbH velia.net",
+      "ip": [
+        "2a01:7a7:2:3ed6:225:90ff:fefb:3dfc",
+        "173.201.36.219"
+      ],
+      "added": "6-1-2026"
+    },
+    {
+      "url": "udp://tracker.corpscorp.online:80/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 month",
+      "latency": 246,
+      "latencyStr": "246 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Google LLC Google LLC",
+      "ip": [
+        "2600:1900:4001:4b5:8000::",
+        "34.66.57.33"
+      ],
+      "added": "10-1-2026"
+    },
+    {
+      "url": "https://tracker.qingwapt.org:443/announce",
+      "protocol": "https",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "26 days",
+      "latency": 91,
+      "latencyStr": "91 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3032::ac43:d0fb",
+        "2606:4700:3035::6815:458c",
+        "104.21.69.140",
+        "172.67.208.251"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "udp://tracker.riverarmy.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "26 days",
+      "latency": 219,
+      "latencyStr": "219 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Amazon.com, Inc.",
+      "ip": [
+        "18.232.197.8"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "https://http1.torrust-tracker-demo.com:443/announce",
+      "protocol": "https",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "9 days",
+      "latency": 26,
+      "latencyStr": "26 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Hetzner Online GmbH Hetzner Online GmbH",
+      "ip": [
+        "2a01:4f8:1c0c:9aae::1",
+        "116.202.176.169"
+      ],
+      "added": "4-3-2026"
+    },
+    {
+      "url": "udp://udp1.torrust-tracker-demo.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "4 days",
+      "latency": 6,
+      "latencyStr": "6 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Hetzner Online GmbH Hetzner Online GmbH",
+      "ip": [
+        "2a01:4f8:1c0c:828e::1",
+        "116.202.177.184"
+      ],
+      "added": "6-3-2026"
+    },
+    {
+      "url": "udp://tracker.004430.xyz:1337/announce",
+      "protocol": "udp",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 225,
+      "latencyStr": "225 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "HostPapa",
+      "ip": [
+        "172.245.168.134"
+      ],
+      "added": "12-3-2026"
+    },
+    {
+      "url": "https://004430.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 100,
+      "uptimeStr": "100.00%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 252,
+      "latencyStr": "252 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3037::ac43:99a7",
+        "2606:4700:3031::6815:3a05",
+        "172.67.153.167",
+        "104.21.58.5"
+      ],
+      "added": "12-3-2026"
+    },
+    {
+      "url": "udp://tracker.opentrackr.org:1337/announce",
+      "protocol": "udp",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "18 days",
+      "latency": 25,
+      "latencyStr": "25 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "Serverius Holding B.V.",
+      "ip": [
+        "93.158.213.92"
+      ],
+      "added": "27-11-2016"
+    },
+    {
+      "url": "udp://tracker.torrent.eu.org:451/announce",
+      "protocol": "udp",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "16 days",
+      "latency": 55,
+      "latencyStr": "55 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "Tetaneutral.net Association declaree Grenode",
+      "ip": [
+        "2a03:7220:8083:cd00::1",
+        "91.216.110.53"
+      ],
+      "added": "28-2-2021"
+    },
+    {
+      "url": "udp://martin-gebhardt.eu:25/announce",
+      "protocol": "udp",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "21 days",
+      "latency": 9,
+      "latencyStr": "9 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "netcup GmbH",
+      "ip": [
+        "185.216.179.62"
+      ],
+      "added": "10-1-2024"
+    },
+    {
+      "url": "http://taciturn-shadow.spb.ru:6969/announce",
+      "protocol": "http",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "7 days",
+      "latency": 84,
+      "latencyStr": "84 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "SkyNet Ltd JSC \"ER-Telecom Holding\"",
+      "ip": [
+        "2a05:3580:d602:181c:5162:a0cf:b835:98d",
+        "5.19.182.213"
+      ],
+      "added": "14-9-2024"
+    },
+    {
+      "url": "https://t.213891.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "5 days",
+      "latency": 63,
+      "latencyStr": "63 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3033::6815:46a9",
+        "2606:4700:3037::ac43:89eb",
+        "104.21.70.169",
+        "172.67.137.235"
+      ],
+      "added": "26-9-2025"
+    },
+    {
+      "url": "udp://tracker.playground.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 99.9,
+      "uptimeStr": "99.90%",
+      "status": "up",
+      "statusDuration": "16 days",
+      "latency": 85,
+      "latencyStr": "85 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "Teslatel LLC",
+      "ip": [
+        "212.42.38.197"
+      ],
+      "added": "31-10-2025"
+    },
+    {
+      "url": "http://ipv6.rer.lol:6969/announce",
+      "protocol": "http",
+      "uptime": 99.82,
+      "uptimeStr": "99.82%",
+      "status": "up",
+      "statusDuration": "8 days",
+      "latency": 825,
+      "latencyStr": "825 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "China Unicom Network",
+      "ip": [
+        "2408:8248:481:5b:5d95:b88b:f1ea:c8e7"
+      ],
+      "added": "27-1-2026"
+    },
+    {
+      "url": "http://ipv4.rer.lol:2710/announce",
+      "protocol": "http",
+      "uptime": 99.82,
+      "uptimeStr": "99.82%",
+      "status": "up",
+      "statusDuration": "11 days",
+      "latency": 612,
+      "latencyStr": "612 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "CHINA UNICOM China169 Backbone",
+      "ip": [
+        "211.97.119.76"
+      ],
+      "added": "27-1-2026"
+    },
+    {
+      "url": "http://open.acgtracker.com:1096/announce",
+      "protocol": "http",
+      "uptime": 99.8,
+      "uptimeStr": "99.80%",
+      "status": "up",
+      "statusDuration": "5 days",
+      "latency": 17,
+      "latencyStr": "17 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "ROETH & BECK GbR",
+      "ip": [
+        "109.71.253.36"
+      ],
+      "added": "28-11-2016"
+    },
+    {
+      "url": "udp://torrentvpn.club:6990/announce",
+      "protocol": "udp",
+      "uptime": 99.8,
+      "uptimeStr": "99.80%",
+      "status": "up",
+      "statusDuration": "6 days",
+      "latency": 22,
+      "latencyStr": "22 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "DASABO OU",
+      "ip": [
+        "31.57.241.202"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "udp://uabits.today:6990/announce",
+      "protocol": "udp",
+      "uptime": 99.8,
+      "uptimeStr": "99.80%",
+      "status": "up",
+      "statusDuration": "18 days",
+      "latency": 16,
+      "latencyStr": "16 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Freakhosting LTD",
+      "ip": [
+        "163.5.63.253"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "udp://tracker.gmi.gd:6969/announce",
+      "protocol": "udp",
+      "uptime": 99.7,
+      "uptimeStr": "99.70%",
+      "status": "up",
+      "statusDuration": "12 days",
+      "latency": 362,
+      "latencyStr": "362 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:20:6c::",
+        "209.141.59.25"
+      ],
+      "added": "5-6-2024"
+    },
+    {
+      "url": "https://tracker.ghostchu-services.top:443/announce",
+      "protocol": "https",
+      "uptime": 99.7,
+      "uptimeStr": "99.70%",
+      "status": "up",
+      "statusDuration": "24 days",
+      "latency": 289,
+      "latencyStr": "289 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3034::6815:1258",
+        "2606:4700:3034::ac43:b584",
+        "104.21.18.88",
+        "172.67.181.132"
+      ],
+      "added": "15-3-2025"
+    },
+    {
+      "url": "http://tracker.xn--djrq4gl4hvoi.top:80/announce",
+      "protocol": "http",
+      "uptime": 99.7,
+      "uptimeStr": "99.70%",
+      "status": "up",
+      "statusDuration": "17 hours",
+      "latency": 564,
+      "latencyStr": "564 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Fastnet Data Inc",
+      "ip": [
+        "154.201.75.73"
+      ],
+      "added": "3-7-2025"
+    },
+    {
+      "url": "https://tracker.nekomi.cn:443/announce",
+      "protocol": "https",
+      "uptime": 99.68,
+      "uptimeStr": "99.68%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 258,
+      "latencyStr": "258 ms",
+      "country": "Singapore",
+      "countryCode": "sg",
+      "network": "Aceville Pte.ltd Aceville Pte.ltd. Aceville Pte.ltd.",
+      "ip": [
+        "240d:c010:77:2::d9",
+        "43.174.246.41",
+        "43.174.247.41"
+      ],
+      "added": "7-3-2026"
+    },
+    {
+      "url": "http://tracker.exe.in.th:6969/announce",
+      "protocol": "http",
+      "uptime": 99.67,
+      "uptimeStr": "99.67%",
+      "status": "up",
+      "statusDuration": "6 days",
+      "latency": 371,
+      "latencyStr": "371 ms",
+      "country": "Thailand",
+      "countryCode": "th",
+      "network": "Electronics Extreme Co., Ltd",
+      "ip": [
+        "103.41.58.131"
+      ],
+      "added": "7-3-2026"
+    },
+    {
+      "url": "udp://tracker.torrust-demo.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 99.6,
+      "uptimeStr": "99.60%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 13,
+      "latencyStr": "13 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "144.126.245.19"
+      ],
+      "added": "11-12-2023"
+    },
+    {
+      "url": "udp://udp.tracker.projectk.org:23333/announce",
+      "protocol": "udp",
+      "uptime": 99.6,
+      "uptimeStr": "99.60%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 238,
+      "latencyStr": "238 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Kawaii Networks LLC Kawaii Networks LLC",
+      "ip": [
+        "2602:f93b:131:a:be24:11ff:fe79:fff7",
+        "23.175.184.30"
+      ],
+      "added": "19-12-2024"
+    },
+    {
+      "url": "udp://t.overflow.biz:6969/announce",
+      "protocol": "udp",
+      "uptime": 99.5,
+      "uptimeStr": "99.50%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 455,
+      "latencyStr": "455 ms",
+      "country": "Brazil",
+      "countryCode": "br",
+      "network": "Vivo",
+      "ip": [
+        "200.170.110.114"
+      ],
+      "added": "9-12-2023"
+    },
+    {
+      "url": "http://tracker.dhitechnical.com:6969/announce",
+      "protocol": "http",
+      "uptime": 99.5,
+      "uptimeStr": "99.50%",
+      "status": "up",
+      "statusDuration": "5 days",
+      "latency": 223,
+      "latencyStr": "223 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "DHI TECHNICAL SERVICES LLC",
+      "ip": [
+        "140.235.237.23"
+      ],
+      "added": "28-8-2025"
+    },
+    {
+      "url": "https://tracker.manager.v6.navy:443/announce",
+      "protocol": "https",
+      "uptime": 99.4,
+      "uptimeStr": "99.40%",
+      "status": "up",
+      "statusDuration": "17 days",
+      "latency": 163,
+      "latencyStr": "163 ms",
+      "country": "Spain",
+      "countryCode": "es",
+      "network": "IONOS SE IONOS SE",
+      "ip": [
+        "2001:ba0:206:da00::",
+        "94.143.142.174"
+      ],
+      "added": "12-2-2026"
+    },
+    {
+      "url": "udp://tracker.dler.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 98.8,
+      "uptimeStr": "98.80%",
+      "status": "up",
+      "statusDuration": "9 days",
+      "latency": 435,
+      "latencyStr": "435 ms",
+      "country": "Taiwan",
+      "countryCode": "tw",
+      "network": "Chunghwa Telecom Co., Ltd. Chunghwa Telecom Co., Ltd. Chunghwa Telecom Co., Ltd. Chunghwa Telecom Co., Ltd. Chunghwa Telecom Co., Ltd.",
+      "ip": [
+        "211.75.205.189",
+        "60.249.37.20",
+        "211.75.210.221",
+        "211.75.205.187",
+        "211.75.205.188"
+      ],
+      "added": "28-11-2016"
+    },
+    {
+      "url": "https://tracker.zhuqiy.com:443/announce",
+      "protocol": "https",
+      "uptime": 98.7,
+      "uptimeStr": "98.70%",
+      "status": "up",
+      "statusDuration": "25 days",
+      "latency": 463,
+      "latencyStr": "463 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3035::ac43:8d1a",
+        "2606:4700:3034::6815:36ba",
+        "172.67.141.26",
+        "104.21.54.186"
+      ],
+      "added": "14-9-2025"
+    },
+    {
+      "url": "udp://tracker.tryhackx.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 98.3,
+      "uptimeStr": "98.30%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 12,
+      "latencyStr": "12 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:701:1100::7949",
+        "135.125.236.64"
+      ],
+      "added": "24-9-2022"
+    },
+    {
+      "url": "udp://d40969.acod.regrucolo.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 97.9,
+      "uptimeStr": "97.90%",
+      "status": "up",
+      "statusDuration": "16 days",
+      "latency": 95,
+      "latencyStr": "95 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "\"Domain names registrar REG.RU\", Ltd",
+      "ip": [
+        "176.99.7.59"
+      ],
+      "added": "28-5-2023"
+    },
+    {
+      "url": "https://tracker.iochimari.moe:443/announce",
+      "protocol": "https",
+      "uptime": 97.8,
+      "uptimeStr": "97.80%",
+      "status": "down",
+      "statusDuration": "23 hours",
+      "latency": 213,
+      "latencyStr": "213 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3034::ac43:d819",
+        "2606:4700:3035::6815:35b3",
+        "172.67.216.25",
+        "104.21.53.179"
+      ],
+      "added": "27-11-2025"
+    },
+    {
+      "url": "https://tracker.novy.vip:443/announce",
+      "protocol": "https",
+      "uptime": 97.8,
+      "uptimeStr": "97.80%",
+      "status": "down",
+      "statusDuration": "11 hours",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "http://tracker.waaa.moe:6969/announce",
+      "protocol": "http",
+      "uptime": 97.7,
+      "uptimeStr": "97.70%",
+      "status": "down",
+      "statusDuration": "23 hours",
+      "latency": 340,
+      "latencyStr": "340 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "HostPapa",
+      "ip": [
+        "216.144.239.90"
+      ],
+      "added": "23-9-2024"
+    },
+    {
+      "url": "udp://tracker.therarbg.to:6969/announce",
+      "protocol": "udp",
+      "uptime": 97.4,
+      "uptimeStr": "97.40%",
+      "status": "up",
+      "statusDuration": "12 hours",
+      "latency": 25,
+      "latencyStr": "25 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "Alexhost SRL",
+      "ip": [
+        "84.54.51.78"
+      ],
+      "added": "18-4-2025"
+    },
+    {
+      "url": "https://tracker.moeblog.cn:443/announce",
+      "protocol": "https",
+      "uptime": 97.3,
+      "uptimeStr": "97.30%",
+      "status": "up",
+      "statusDuration": "6 days",
+      "latency": 66,
+      "latencyStr": "66 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3036::6815:3985",
+        "2606:4700:3035::ac43:a410",
+        "104.21.57.133",
+        "172.67.164.16"
+      ],
+      "added": "15-7-2022"
+    },
+    {
+      "url": "udp://tracker.qu.ax:6969/announce",
+      "protocol": "udp",
+      "uptime": 96.6,
+      "uptimeStr": "96.60%",
+      "status": "up",
+      "statusDuration": "10 days",
+      "latency": 23,
+      "latencyStr": "23 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "RedSwitches Pty LTD. RedSwitches Pty LTD.",
+      "ip": [
+        "2406:4fc0:1002::137",
+        "43.250.54.137"
+      ],
+      "added": "17-5-2023"
+    },
+    {
+      "url": "udp://bt.rer.lol:6969/announce",
+      "protocol": "udp",
+      "uptime": 95.6,
+      "uptimeStr": "95.60%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 740,
+      "latencyStr": "740 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "China Unicom Network",
+      "ip": [
+        "2408:8248:412:cf90::1"
+      ],
+      "added": "16-11-2024"
+    },
+    {
+      "url": "udp://tracker.theoks.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 95.3,
+      "uptimeStr": "95.30%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 10312,
+      "latencyStr": "10312 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:20:d3:1337::1",
+        "209.141.59.16"
+      ],
+      "added": "30-1-2021"
+    },
+    {
+      "url": "https://tracker.pmman.tech:443/announce",
+      "protocol": "https",
+      "uptime": 95.1,
+      "uptimeStr": "95.10%",
+      "status": "up",
+      "statusDuration": "15 days",
+      "latency": 378,
+      "latencyStr": "378 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3033::6815:4772",
+        "2606:4700:3031::ac43:9080",
+        "172.67.144.128",
+        "104.21.71.114"
+      ],
+      "added": "5-5-2024"
+    },
+    {
+      "url": "http://bvarf.tracker.sh:2086/announce",
+      "protocol": "http",
+      "uptime": 94.8,
+      "uptimeStr": "94.80%",
+      "status": "up",
+      "statusDuration": "9 hours",
+      "latency": 158,
+      "latencyStr": "158 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3033::6815:1a72",
+        "2606:4700:3036::ac43:87f4",
+        "172.67.135.244",
+        "104.21.26.114"
+      ],
+      "added": "4-10-2023"
+    },
+    {
+      "url": "http://tracker.ipv6tracker.ru:80/announce",
+      "protocol": "http",
+      "uptime": 94.5,
+      "uptimeStr": "94.50%",
+      "status": "up",
+      "statusDuration": "2 months",
+      "latency": 108,
+      "latencyStr": "108 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "JSC Selectel",
+      "ip": [
+        "2a00:ab00:1103:2e::100"
+      ],
+      "added": "19-10-2017"
+    },
+    {
+      "url": "udp://tracker.srv00.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 94.5,
+      "uptimeStr": "94.50%",
+      "status": "up",
+      "statusDuration": "4 days",
+      "latency": 53,
+      "latencyStr": "53 ms",
+      "country": "Sweden",
+      "countryCode": "se",
+      "network": "Aeza International LTD NetCrafters OU",
+      "ip": [
+        "147.45.77.75",
+        "91.186.213.204"
+      ],
+      "added": "27-1-2022"
+    },
+    {
+      "url": "http://tracker.bt4g.com:2095/announce",
+      "protocol": "http",
+      "uptime": 93.9,
+      "uptimeStr": "93.90%",
+      "status": "up",
+      "statusDuration": "7 hours",
+      "latency": 75,
+      "latencyStr": "75 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3034::6815:39b6",
+        "2606:4700:3037::ac43:a548",
+        "172.67.165.72",
+        "104.21.57.182"
+      ],
+      "added": "13-4-2019"
+    },
+    {
+      "url": "udp://tracker.iperson.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 93.5,
+      "uptimeStr": "93.50%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 387,
+      "latencyStr": "387 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Hangzhou Alibaba Advertising Co",
+      "ip": [
+        "120.78.150.131"
+      ],
+      "added": "25-3-2023"
+    },
+    {
+      "url": "http://tracker.tritan.gg:8080/announce",
+      "protocol": "http",
+      "uptime": 93.2,
+      "uptimeStr": "93.20%",
+      "status": "up",
+      "statusDuration": "9 hours",
+      "latency": 317,
+      "latencyStr": "317 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Tritan Development Tritan Development",
+      "ip": [
+        "2602:f9ba:c0::20",
+        "167.253.78.20"
+      ],
+      "added": "3-5-2025"
+    },
+    {
+      "url": "udp://tracker.breizh.pm:6969/announce",
+      "protocol": "udp",
+      "uptime": 93,
+      "uptimeStr": "93.00%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 50,
+      "latencyStr": "50 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "Free SAS Proxad / Free SAS",
+      "ip": [
+        "2a01:e0a:ebd:2640:ba27:ebff:fe2c:db88",
+        "82.67.183.86"
+      ],
+      "added": "16-5-2021"
+    },
+    {
+      "url": "http://echostar.ddnsfree.com:8080/announce",
+      "protocol": "http",
+      "uptime": 92.9,
+      "uptimeStr": "92.90%",
+      "status": "up",
+      "statusDuration": "11 days",
+      "latency": 20,
+      "latencyStr": "20 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Liu Zhen",
+      "ip": [
+        "2a0e:aa07:e15f::e"
+      ],
+      "added": "6-1-2025"
+    },
+    {
+      "url": "udp://speedtest.iperson.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 92.19,
+      "uptimeStr": "92.19%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 437,
+      "latencyStr": "437 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "CHINANET",
+      "ip": [
+        "240e:355:7f3c:9400:e2e1:a9ff:fe1a:1f93"
+      ],
+      "added": "5-3-2026"
+    },
+    {
+      "url": "udp://open.dstud.io:6969/announce",
+      "protocol": "udp",
+      "uptime": 91.5,
+      "uptimeStr": "91.50%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 50,
+      "latencyStr": "50 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "WorldStream B.V.",
+      "ip": [
+        "212.8.249.30"
+      ],
+      "added": "22-3-2022"
+    },
+    {
+      "url": "udp://utracker.ghostchu-services.top:6969/announce",
+      "protocol": "udp",
+      "uptime": 90,
+      "uptimeStr": "90.00%",
+      "status": "up",
+      "statusDuration": "8 hours",
+      "latency": 507,
+      "latencyStr": "507 ms",
+      "country": "Japan",
+      "countryCode": "jp",
+      "network": "Oracle Corporation",
+      "ip": [
+        "132.226.6.145"
+      ],
+      "added": "14-3-2025"
+    },
+    {
+      "url": "http://ftp.pet:2710/announce",
+      "protocol": "http",
+      "uptime": 89.3,
+      "uptimeStr": "89.30%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 10356,
+      "latencyStr": "10356 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "CHINANET Chinanet",
+      "ip": [
+        "240e:3a5:2021:2e70:c85f:daa6:8aea:c009",
+        "180.112.251.61"
+      ],
+      "added": "8-3-2026"
+    },
+    {
+      "url": "udp://tracker.plx.im:6969/announce",
+      "protocol": "udp",
+      "uptime": 89.2,
+      "uptimeStr": "89.20%",
+      "status": "up",
+      "statusDuration": "12 days",
+      "latency": 27,
+      "latencyStr": "27 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS",
+      "ip": [
+        "54.36.179.216"
+      ],
+      "added": "31-5-2025"
+    },
+    {
+      "url": "https://tracker.yggleak.top:443/announce",
+      "protocol": "https",
+      "uptime": 88.64,
+      "uptimeStr": "88.64%",
+      "status": "up",
+      "statusDuration": "3 days",
+      "latency": 60,
+      "latencyStr": "60 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3036::ac43:cfa8",
+        "2606:4700:3033::6815:55a7",
+        "104.21.85.167",
+        "172.67.207.168"
+      ],
+      "added": "5-3-2026"
+    },
+    {
+      "url": "udp://tracker.tvunderground.org.ru:3218/announce",
+      "protocol": "udp",
+      "uptime": 87.5,
+      "uptimeStr": "87.50%",
+      "status": "up",
+      "statusDuration": "3 hours",
+      "latency": 215,
+      "latencyStr": "215 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Leaseweb USA, Inc. Leaseweb USA, Inc.",
+      "ip": [
+        "2604:9a00:1:104:1c00:33ff:fe00:132",
+        "209.50.255.93"
+      ],
+      "added": "19-6-2025"
+    },
+    {
+      "url": "http://tracker.zhuqiy.dgj055.icu:80/announce",
+      "protocol": "http",
+      "uptime": 87.4,
+      "uptimeStr": "87.40%",
+      "status": "up",
+      "statusDuration": "1 day",
+      "latency": 3504,
+      "latencyStr": "3504 ms",
+      "country": "Finland",
+      "countryCode": "fi",
+      "network": "Hetzner Online GmbH Hetzner Online GmbH Hetzner Online GmbH Hetzner Online GmbH Hetzner Online GmbH Nocix",
+      "ip": [
+        "2a01:4f9:2a:368::1337:f00d",
+        "2a01:4f9:2a:368::dead:beef",
+        "2a01:4f9:2a:368::2",
+        "95.216.3.11",
+        "95.216.3.28",
+        "69.197.155.114"
+      ],
+      "added": "13-4-2024"
+    },
+    {
+      "url": "udp://admin.52ywp.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 87.1,
+      "uptimeStr": "87.10%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 435,
+      "latencyStr": "435 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Chinanet",
+      "ip": [
+        "60.172.236.18"
+      ],
+      "added": "20-3-2025"
+    },
+    {
+      "url": "https://torrent.tracker.durukanbal.com:443/announce",
+      "protocol": "https",
+      "uptime": 86,
+      "uptimeStr": "86.00%",
+      "status": "down",
+      "statusDuration": "30 minutes",
+      "latency": 1277,
+      "latencyStr": "1277 ms",
+      "country": "Turkey",
+      "countryCode": "tr",
+      "network": "MUV Bilisim ve Telekomunikasyon Hizmetleri Ltd. Sti",
+      "ip": [
+        "193.53.245.133"
+      ],
+      "added": "21-4-2024"
+    },
+    {
+      "url": "udp://bandito.byterunner.io:6969/announce",
+      "protocol": "udp",
+      "uptime": 82.9,
+      "uptimeStr": "82.90%",
+      "status": "up",
+      "statusDuration": "2 hours",
+      "latency": 67,
+      "latencyStr": "67 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "The Infrastructure Group B.V.",
+      "ip": [
+        "103.251.166.126"
+      ],
+      "added": "11-7-2024"
+    },
+    {
+      "url": "https://tr.zukizuki.org:443/announce",
+      "protocol": "https",
+      "uptime": 76.4,
+      "uptimeStr": "76.40%",
+      "status": "up",
+      "statusDuration": "11 days",
+      "latency": 268,
+      "latencyStr": "268 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3032::ac43:ca59",
+        "2606:4700:3032::6815:34b1",
+        "104.21.52.177",
+        "172.67.202.89"
+      ],
+      "added": "7-11-2024"
+    },
+    {
+      "url": "https://cny.fan:443/announce",
+      "protocol": "https",
+      "uptime": 76.1,
+      "uptimeStr": "76.10%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 534,
+      "latencyStr": "534 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3037::ac43:cf8a",
+        "2606:4700:3037::6815:16e0",
+        "172.67.207.138",
+        "104.21.22.224"
+      ],
+      "added": "20-10-2025"
+    },
+    {
+      "url": "http://tracker.beeimg.com:6969/announce",
+      "protocol": "http",
+      "uptime": 75.3,
+      "uptimeStr": "75.30%",
+      "status": "up",
+      "statusDuration": "12 days",
+      "latency": 74,
+      "latencyStr": "74 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "ungleich glarus ag",
+      "ip": [
+        "2a0a:e5c0:10:3::a480"
+      ],
+      "added": "5-11-2024"
+    },
+    {
+      "url": "udp://tr4ck3r.duckdns.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 72.8,
+      "uptimeStr": "72.80%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 58,
+      "latencyStr": "58 ms",
+      "country": "Bulgaria",
+      "countryCode": "bg",
+      "network": "Contrust Solutions S.R.L.",
+      "ip": [
+        "152.89.29.128"
+      ],
+      "added": "9-9-2024"
+    },
+    {
+      "url": "http://ipv4announce.sktorrent.eu:6969/announce",
+      "protocol": "http",
+      "uptime": 69.6,
+      "uptimeStr": "69.60%",
+      "status": "up",
+      "statusDuration": "17 hours",
+      "latency": 38,
+      "latencyStr": "38 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:2:52b1::1",
+        "94.23.207.177"
+      ],
+      "added": "14-1-2021"
+    },
+    {
+      "url": "udp://exodus.desync.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 68.6,
+      "uptimeStr": "68.60%",
+      "status": "up",
+      "statusDuration": "15 hours",
+      "latency": 312,
+      "latencyStr": "312 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Desync Networks Desync Networks",
+      "ip": [
+        "2607:f178:0:32::3",
+        "208.83.20.20"
+      ],
+      "added": "14-6-2018"
+    },
+    {
+      "url": "udp://6ahddutb1ucc3cp.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 67.6,
+      "uptimeStr": "67.60%",
+      "status": "down",
+      "statusDuration": "41 minutes",
+      "latency": 137,
+      "latencyStr": "137 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "First Server Limited",
+      "ip": [
+        "185.189.13.108"
+      ],
+      "added": "20-5-2020"
+    },
+    {
+      "url": "http://tracker.skyts.net:6969/announce",
+      "protocol": "http",
+      "uptime": 66.7,
+      "uptimeStr": "66.70%",
+      "status": "up",
+      "statusDuration": "13 hours",
+      "latency": 808,
+      "latencyStr": "808 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Chinanet",
+      "ip": [
+        "113.16.153.122"
+      ],
+      "added": "27-2-2021"
+    },
+    {
+      "url": "udp://tracker.yume-hatsuyuki.moe:6969/announce",
+      "protocol": "udp",
+      "uptime": 66.3,
+      "uptimeStr": "66.30%",
+      "status": "up",
+      "statusDuration": "1 hour",
+      "latency": 311,
+      "latencyStr": "311 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "NetLab Global Contabo Asia Private Limited Multacom Corporation",
+      "ip": [
+        "154.40.43.165",
+        "46.250.235.92",
+        "148.135.112.164"
+      ],
+      "added": "6-12-2024"
+    },
+    {
+      "url": "udp://node01.trackerstatus.live:42069/announce",
+      "protocol": "udp",
+      "uptime": 64.5,
+      "uptimeStr": "64.50%",
+      "status": "up",
+      "statusDuration": "8 hours",
+      "latency": 132,
+      "latencyStr": "132 ms",
+      "country": "South Africa",
+      "countryCode": "za",
+      "network": "Internet Magnate (Pty) Ltd",
+      "ip": [
+        "151.242.30.86"
+      ],
+      "added": "16-12-2025"
+    },
+    {
+      "url": "https://tracker.moeking.me:443/announce",
+      "protocol": "https",
+      "uptime": 64.1,
+      "uptimeStr": "64.10%",
+      "status": "down",
+      "statusDuration": "3 days",
+      "latency": 1082,
+      "latencyStr": "1082 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3033::6815:3603",
+        "2606:4700:3032::ac43:ddea",
+        "172.67.221.234",
+        "104.21.54.3"
+      ],
+      "added": "13-11-2024"
+    },
+    {
+      "url": "udp://opentracker.io:6969/announce",
+      "protocol": "udp",
+      "uptime": 63.8,
+      "uptimeStr": "63.80%",
+      "status": "up",
+      "statusDuration": "1 hour",
+      "latency": 10342,
+      "latencyStr": "10342 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "netcup GmbH",
+      "ip": [
+        "45.9.60.30"
+      ],
+      "added": "17-2-2023"
+    },
+    {
+      "url": "https://tracker-zhuqiy.xn--1r3au8b.space:443/announce",
+      "protocol": "https",
+      "uptime": 61.2,
+      "uptimeStr": "61.20%",
+      "status": "up",
+      "statusDuration": "13 days",
+      "latency": 37,
+      "latencyStr": "37 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Anexia Cloud Solutions GmbH netcup GmbH",
+      "ip": [
+        "2a00:11c0:47:3d36:d8cc:eff:fe66:34c6",
+        "37.120.182.83"
+      ],
+      "added": "1-3-2025"
+    },
+    {
+      "url": "udp://tracker.filemail.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 57.6,
+      "uptimeStr": "57.60%",
+      "status": "up",
+      "statusDuration": "3 hours",
+      "latency": 83,
+      "latencyStr": "83 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Amazon Technologies Inc.",
+      "ip": [
+        "52.58.128.163"
+      ],
+      "added": "18-11-2018"
+    },
+    {
+      "url": "udp://tracker.wepzone.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 56.7,
+      "uptimeStr": "56.70%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 60,
+      "latencyStr": "60 ms",
+      "country": "Poland",
+      "countryCode": "pl",
+      "network": "Pedro Javier Pantoja Alcaraz Pedro Javier Pantoja Alcaraz",
+      "ip": [
+        "2a14:7581:ff6::2017",
+        "44.30.4.70"
+      ],
+      "added": "25-9-2022"
+    },
+    {
+      "url": "udp://node01.madtia.cc:42069/announce",
+      "protocol": "udp",
+      "uptime": 55.48,
+      "uptimeStr": "55.48%",
+      "status": "down",
+      "statusDuration": "45 minutes",
+      "latency": 11266,
+      "latencyStr": "11266 ms",
+      "country": "Italy",
+      "countryCode": "it",
+      "network": "Oracle Corporation",
+      "ip": [
+        "79.72.43.7"
+      ],
+      "added": "21-2-2026"
+    },
+    {
+      "url": "udp://node02.madtia.cc:42069/announce",
+      "protocol": "udp",
+      "uptime": 50.41,
+      "uptimeStr": "50.41%",
+      "status": "down",
+      "statusDuration": "45 minutes",
+      "latency": 10168,
+      "latencyStr": "10168 ms",
+      "country": "Italy",
+      "countryCode": "it",
+      "network": "Oracle Corporation",
+      "ip": [
+        "79.72.45.236"
+      ],
+      "added": "21-2-2026"
+    },
+    {
+      "url": "udp://node01.torrentonline.cc:42069/announce",
+      "protocol": "udp",
+      "uptime": 49.7,
+      "uptimeStr": "49.70%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 76,
+      "latencyStr": "76 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "Oracle Corporation",
+      "ip": [
+        "92.5.224.143"
+      ],
+      "added": "18-12-2025"
+    },
+    {
+      "url": "udp://tracker-de-2.cutie.dating:1337/announce",
+      "protocol": "udp",
+      "uptime": 49.2,
+      "uptimeStr": "49.20%",
+      "status": "up",
+      "statusDuration": "2 hours",
+      "latency": 35,
+      "latencyStr": "35 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "ZAP-Hosting GmbH",
+      "ip": [
+        "185.249.198.175"
+      ],
+      "added": "30-8-2025"
+    },
+    {
+      "url": "https://1337.abcvg.info:443/announce",
+      "protocol": "https",
+      "uptime": 47.5,
+      "uptimeStr": "47.50%",
+      "status": "up",
+      "statusDuration": "2 days",
+      "latency": 1165,
+      "latencyStr": "1165 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3037::ac43:88af",
+        "2606:4700:3035::6815:48f4",
+        "104.21.72.244",
+        "172.67.136.175"
+      ],
+      "added": "29-9-2017"
+    },
+    {
+      "url": "udp://ibksturm.synology.me:6969/announce",
+      "protocol": "udp",
+      "uptime": 46.2,
+      "uptimeStr": "46.20%",
+      "status": "up",
+      "statusDuration": "3 hours",
+      "latency": 50,
+      "latencyStr": "50 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "Hurricane Electric LLC PROVIDER",
+      "ip": [
+        "2001:470:26:7c::195",
+        "213.196.191.96"
+      ],
+      "added": "14-8-2025"
+    },
+    {
+      "url": "udp://tracker.huadongblower.xyz:8080/announce",
+      "protocol": "udp",
+      "uptime": 42.7,
+      "uptimeStr": "42.70%",
+      "status": "down",
+      "statusDuration": "30 minutes",
+      "latency": 3482,
+      "latencyStr": "3482 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "Alexhost SRL",
+      "ip": [
+        "37.221.64.218"
+      ],
+      "added": "16-2-2026"
+    },
+    {
+      "url": "udp://tracker.sharebro.in:6969/announce",
+      "protocol": "udp",
+      "uptime": 37.7,
+      "uptimeStr": "37.70%",
+      "status": "down",
+      "statusDuration": "11 days",
+      "latency": 357,
+      "latencyStr": "357 ms",
+      "country": "India",
+      "countryCode": "in",
+      "network": "Contabo Asia Private Limited",
+      "ip": [
+        "94.136.190.183"
+      ],
+      "added": "30-1-2026"
+    },
+    {
+      "url": "https://tracker.qingwa.pro:443/announce",
+      "protocol": "https",
+      "uptime": 33.9,
+      "uptimeStr": "33.90%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "23-10-2025"
+    },
+    {
+      "url": "udp://tracker1.myporn.club:9337/announce",
+      "protocol": "udp",
+      "uptime": 24.4,
+      "uptimeStr": "24.40%",
+      "status": "down",
+      "statusDuration": "4 hours",
+      "latency": 10044,
+      "latencyStr": "10044 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "3W Infra B.V.",
+      "ip": [
+        "193.42.111.57"
+      ],
+      "added": "25-5-2020"
+    },
+    {
+      "url": "http://asiatorrent.giize.com:51413/announce",
+      "protocol": "http",
+      "uptime": 17.3,
+      "uptimeStr": "17.30%",
+      "status": "up",
+      "statusDuration": "4 hours",
+      "latency": 333,
+      "latencyStr": "333 ms",
+      "country": "Bangladesh",
+      "countryCode": "bd",
+      "network": "Link3 Technologies Limited",
+      "ip": [
+        "27.147.186.5"
+      ],
+      "added": "24-7-2025"
+    },
+    {
+      "url": "http://s1124554.ha012.t.mydomain.zone:80/announce",
+      "protocol": "http",
+      "uptime": 16.41,
+      "uptimeStr": "16.41%",
+      "status": "down",
+      "statusDuration": "4 days",
+      "latency": 5984,
+      "latencyStr": "5984 ms",
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "network": "Baxet Group Inc. Baxet Group Inc.",
+      "ip": [
+        "2605:e440:8::20",
+        "91.149.238.135"
+      ],
+      "added": "8-3-2026"
+    },
+    {
+      "url": "udp://explodie.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 9,
+      "uptimeStr": "9.00%",
+      "status": "down",
+      "statusDuration": "6 hours",
+      "latency": 19465,
+      "latencyStr": "19465 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Difficult Computing, LLC Difficult Computing, LLC",
+      "ip": [
+        "2602:fa69:1:1::14",
+        "23.157.120.14"
+      ],
+      "added": "27-11-2016"
+    },
+    {
+      "url": "http://tracker.23794.top:6969/announce",
+      "protocol": "http",
+      "uptime": 6.3,
+      "uptimeStr": "6.30%",
+      "status": "down",
+      "statusDuration": "12 days",
+      "latency": 10567,
+      "latencyStr": "10567 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "CHINANET CHINANET Chinanet Chinanet",
+      "ip": [
+        "240e:30c:1002:407b:aca7:2c7b:cd34:db9e",
+        "240e:30c:1002:175:7fcb:66ba:7dc8:1c44",
+        "123.245.62.40",
+        "123.245.62.39"
+      ],
+      "added": "13-3-2025"
+    },
+    {
+      "url": "https://tracker.maya.no.eu.org:443/announce",
+      "protocol": "https",
+      "uptime": 4.2,
+      "uptimeStr": "4.20%",
+      "status": "down",
+      "statusDuration": "9 days",
+      "latency": 915,
+      "latencyStr": "915 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3031::ac43:8f63",
+        "2606:4700:3037::6815:5787",
+        "104.21.87.135",
+        "172.67.143.99"
+      ],
+      "added": "17-1-2026"
+    },
+    {
+      "url": "https://tracker.cangku.moe:443/announce",
+      "protocol": "https",
+      "uptime": 3.5,
+      "uptimeStr": "3.50%",
+      "status": "down",
+      "statusDuration": "3 days",
+      "latency": 9500,
+      "latencyStr": "9500 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3031::6815:20b2",
+        "2606:4700:3035::ac43:9931",
+        "104.21.32.178",
+        "172.67.153.49"
+      ],
+      "added": "26-7-2025"
+    },
+    {
+      "url": "http://cn.pcfreetime.com:6969/announce",
+      "protocol": "http",
+      "uptime": 1.8,
+      "uptimeStr": "1.80%",
+      "status": "down",
+      "statusDuration": "5 days",
+      "latency": 4876,
+      "latencyStr": "4876 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "CNC Group CHINA169 Fujian Province Network",
+      "ip": [
+        "116.62.205.211"
+      ],
+      "added": "29-11-2021"
+    },
+    {
+      "url": "http://tracker.pcfreetime.com:6969/announce",
+      "protocol": "http",
+      "uptime": 1.1,
+      "uptimeStr": "1.10%",
+      "status": "down",
+      "statusDuration": "5 days",
+      "latency": 9674,
+      "latencyStr": "9674 ms",
+      "country": "Hong Kong",
+      "countryCode": "hk",
+      "network": "Alibaba.com LLC",
+      "ip": [
+        "8.210.14.3"
+      ],
+      "added": "29-11-2021"
+    },
+    {
+      "url": "http://tracker.guguan.000.pe:80/announce",
+      "protocol": "http",
+      "uptime": 0.1,
+      "uptimeStr": "0.10%",
+      "status": "down",
+      "statusDuration": "1 month",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "5-5-2024"
+    },
+    {
+      "url": "udp://p4p.arenabg.com:1337/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 month",
+      "latency": 65,
+      "latencyStr": "65 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc.",
+      "ip": [
+        "2600:9000:235a:ba00:a:4f58:59c0:93a1",
+        "2600:9000:235a:1000:a:4f58:59c0:93a1",
+        "2600:9000:235a:1400:a:4f58:59c0:93a1",
+        "2600:9000:235a:9800:a:4f58:59c0:93a1",
+        "2600:9000:235a:3200:a:4f58:59c0:93a1",
+        "2600:9000:235a:1c00:a:4f58:59c0:93a1",
+        "2600:9000:235a:c000:a:4f58:59c0:93a1",
+        "2600:9000:235a:5c00:a:4f58:59c0:93a1",
+        "13.33.187.40",
+        "13.33.187.101",
+        "13.33.187.41",
+        "13.33.187.118"
+      ],
+      "added": "27-11-2016"
+    },
+    {
+      "url": "udp://tracker.cyberia.is:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": 93,
+      "latencyStr": "93 ms",
+      "country": "Ukraine",
+      "countryCode": "ua",
+      "network": "UDNp2p Ukrainian Data Network",
+      "ip": [
+        "2a0f:e586:f:f::81",
+        "193.218.118.81"
+      ],
+      "added": "5-5-2017"
+    },
+    {
+      "url": "udp://retracker.hotplug.ru:2710/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 82,
+      "latencyStr": "82 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "Trader Soft",
+      "ip": [
+        "2a04:ac00:1:3dd8::1:2710"
+      ],
+      "added": "30-7-2018"
+    },
+    {
+      "url": "http://tracker.gbitt.info:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "19-12-2018"
+    },
+    {
+      "url": "http://tracker.files.fm:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 7391,
+      "latencyStr": "7391 ms",
+      "country": "Latvia",
+      "countryCode": "lv",
+      "network": "LATTELEKOM",
+      "ip": [
+        "87.110.238.140"
+      ],
+      "added": "27-4-2019"
+    },
+    {
+      "url": "udp://bt1.archive.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 123,
+      "latencyStr": "123 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Internet Archive",
+      "ip": [
+        "207.241.226.111"
+      ],
+      "added": "28-8-2019"
+    },
+    {
+      "url": "udp://bt2.archive.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 122,
+      "latencyStr": "122 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Internet Archive",
+      "ip": [
+        "207.241.231.226"
+      ],
+      "added": "28-8-2019"
+    },
+    {
+      "url": "http://torrenttracker.nwc.acsalaska.net:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "7 months",
+      "latency": 531,
+      "latencyStr": "531 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Alaska Communications Systems Group, Inc. Alaska Communications Systems Group, Inc.",
+      "ip": [
+        "2001:4948:d:69::9",
+        "107.152.127.9"
+      ],
+      "added": "20-5-2020"
+    },
+    {
+      "url": "http://0205.uptm.ch:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 273,
+      "latencyStr": "273 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "Innotronic Ingenieurburo GmbH Innotronic Ingenieurburo GmbH",
+      "ip": [
+        "2a00:f740:100::22:1",
+        "185.104.16.34"
+      ],
+      "added": "24-5-2020"
+    },
+    {
+      "url": "udp://retracker01-msk-virt.corbina.net:80/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 93,
+      "latencyStr": "93 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "CORBINA",
+      "ip": [
+        "83.102.180.21"
+      ],
+      "added": "25-5-2020"
+    },
+    {
+      "url": "udp://z.mercax.com:53/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "13-8-2020"
+    },
+    {
+      "url": "udp://tracker1.bt.moack.co.kr:80/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": 564,
+      "latencyStr": "564 ms",
+      "country": "Hong Kong",
+      "countryCode": "hk",
+      "network": "Yancy Limited",
+      "ip": [
+        "156.234.201.18"
+      ],
+      "added": "12-10-2020"
+    },
+    {
+      "url": "udp://free.publictracker.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "23-2-2021"
+    },
+    {
+      "url": "udp://open.publictracker.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "4-3-2021"
+    },
+    {
+      "url": "udp://tracker.ccp.ovh:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "8-4-2021"
+    },
+    {
+      "url": "http://fosstorrents.com:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "10 months",
+      "latency": 1315,
+      "latencyStr": "1315 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Bell Canada",
+      "ip": [
+        "47.55.184.197"
+      ],
+      "added": "16-8-2021"
+    },
+    {
+      "url": "udp://open.xxtor.com:3074/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Amazon.com, Inc. Amazon.com, Inc.",
+      "ip": [
+        "76.223.54.146",
+        "13.248.169.48"
+      ],
+      "added": "22-12-2021"
+    },
+    {
+      "url": "udp://run.publictracker.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "24 days",
+      "latency": 483,
+      "latencyStr": "483 ms",
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "network": "Kraken Network ISP LTD",
+      "ip": [
+        "80.71.224.126"
+      ],
+      "added": "1-3-2022"
+    },
+    {
+      "url": "http://tracker.k.vu:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "10-4-2022"
+    },
+    {
+      "url": "udp://tracker.farted.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "10-4-2022"
+    },
+    {
+      "url": "https://tracker1.520.jp:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 1175,
+      "latencyStr": "1175 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3033::ac43:bc5b",
+        "2606:4700:3034::6815:30ec",
+        "172.67.188.91",
+        "104.21.48.236"
+      ],
+      "added": "1-6-2022"
+    },
+    {
+      "url": "udp://thouvenin.cloud:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "10 months",
+      "latency": 30,
+      "latencyStr": "30 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:a:3777::1",
+        "37.187.95.119"
+      ],
+      "added": "26-6-2022"
+    },
+    {
+      "url": "udp://new-line.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": 89,
+      "latencyStr": "89 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "New-Line Telecom",
+      "ip": [
+        "94.243.222.100"
+      ],
+      "added": "26-6-2022"
+    },
+    {
+      "url": "udp://moonburrow.club:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 50,
+      "latencyStr": "50 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "167.99.185.219"
+      ],
+      "added": "27-6-2022"
+    },
+    {
+      "url": "udp://tamas3.ynh.fr:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 179,
+      "latencyStr": "179 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:8:bae::1",
+        "176.31.250.174"
+      ],
+      "added": "28-6-2022"
+    },
+    {
+      "url": "https://tracker.imgoingto.icu:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "1-7-2022"
+    },
+    {
+      "url": "udp://www.2600.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 301,
+      "latencyStr": "301 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Hurricane Electric LLC",
+      "ip": [
+        "184.105.226.26"
+      ],
+      "added": "7-7-2022"
+    },
+    {
+      "url": "udp://bt.ktrackers.com:6666/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "7 months",
+      "latency": 38,
+      "latencyStr": "38 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "SCALEWAY",
+      "ip": [
+        "51.159.54.68"
+      ],
+      "added": "11-7-2022"
+    },
+    {
+      "url": "https://tracker.tamersunion.org:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "29-8-2022"
+    },
+    {
+      "url": "udp://static.54.161.216.95.clients.your-server.de:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 218,
+      "latencyStr": "218 ms",
+      "country": "Finland",
+      "countryCode": "fi",
+      "network": "Hetzner Online GmbH",
+      "ip": [
+        "95.216.161.54"
+      ],
+      "added": "24-9-2022"
+    },
+    {
+      "url": "udp://jutone.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 691,
+      "latencyStr": "691 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Hangzhou Alibaba Advertising Co",
+      "ip": [
+        "121.199.16.229"
+      ],
+      "added": "24-9-2022"
+    },
+    {
+      "url": "https://t1.hloli.org:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "6 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "5-10-2022"
+    },
+    {
+      "url": "udp://tracker.edkj.club:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Trellian Pty. Limited",
+      "ip": [
+        "103.224.182.212"
+      ],
+      "added": "7-11-2022"
+    },
+    {
+      "url": "http://tracker.enitin.xyz:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "11-11-2022"
+    },
+    {
+      "url": "udp://private.anonseed.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 178,
+      "latencyStr": "178 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "NextGenWebs, S.L.",
+      "ip": [
+        "195.170.172.117"
+      ],
+      "added": "13-11-2022"
+    },
+    {
+      "url": "https://trackers.mlsub.net:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 97,
+      "latencyStr": "97 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3030::ac43:bf32",
+        "2606:4700:3030::6815:31a9",
+        "104.21.49.169",
+        "172.67.191.50"
+      ],
+      "added": "27-12-2022"
+    },
+    {
+      "url": "udp://ryjer.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 472,
+      "latencyStr": "472 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Shenzhen Tencent Computer Systems Company Limited China Internet Network Information Center",
+      "ip": [
+        "2402:4e00:c032:3400:1420:bd5e:da3e:0",
+        "124.221.14.66"
+      ],
+      "added": "29-3-2023"
+    },
+    {
+      "url": "https://tracker.ipfsscan.io:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "Thailand",
+      "countryCode": "th",
+      "network": "Triple T Broadband Public Company Limited",
+      "ip": [
+        "171.4.194.218"
+      ],
+      "added": "15-5-2023"
+    },
+    {
+      "url": "udp://freedomalternative.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 365,
+      "latencyStr": "365 ms",
+      "country": "Hungary",
+      "countryCode": "hu",
+      "network": "23VNet Kft.",
+      "ip": [
+        "185.225.68.26"
+      ],
+      "added": "27-5-2023"
+    },
+    {
+      "url": "http://region.nl1.privex.cc:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": 42,
+      "latencyStr": "42 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "Privex Inc Privex Inc.",
+      "ip": [
+        "2a07:e03::666",
+        "185.130.47.2"
+      ],
+      "added": "27-5-2023"
+    },
+    {
+      "url": "udp://ns1.monolithindustries.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "27-5-2023"
+    },
+    {
+      "url": "udp://1c.premierzal.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "4 months",
+      "latency": 152,
+      "latencyStr": "152 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "CJSC \"ER-Telecom Holding\" Yekaterinburg branch",
+      "ip": [
+        "188.234.235.165"
+      ],
+      "added": "27-5-2023"
+    },
+    {
+      "url": "http://smurfsoft.com:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 263,
+      "latencyStr": "263 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:8:9952::1",
+        "5.39.87.82"
+      ],
+      "added": "27-5-2023"
+    },
+    {
+      "url": "http://canardscitrons.nohost.me:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 1946,
+      "latencyStr": "1946 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "AQUILENET AQUILENET",
+      "ip": [
+        "2a0c:e303:1000::151:102",
+        "46.231.241.43"
+      ],
+      "added": "28-5-2023"
+    },
+    {
+      "url": "http://ch3oh.ru:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": 1127,
+      "latencyStr": "1127 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "PJSC MegaFon",
+      "ip": [
+        "79.111.12.213"
+      ],
+      "added": "30-5-2023"
+    },
+    {
+      "url": "http://wg.mortis.me:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 172,
+      "latencyStr": "172 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "WorkTitans B.V. WorkTitans B.V.",
+      "ip": [
+        "2a09:7c44::203f",
+        "45.67.35.111"
+      ],
+      "added": "30-5-2023"
+    },
+    {
+      "url": "udp://yahor.of.by:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 241,
+      "latencyStr": "241 ms",
+      "country": "Belarus",
+      "countryCode": "by",
+      "network": "Republican Unitary Telecommunication Enterprise Beltelecom",
+      "ip": [
+        "86.57.161.157"
+      ],
+      "added": "1-6-2023"
+    },
+    {
+      "url": "udp://tracker.0x7c0.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "3-6-2023"
+    },
+    {
+      "url": "udp://tk1.trackerservers.com:8080/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "6-6-2023"
+    },
+    {
+      "url": "udp://open.u-p.pw:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 174,
+      "latencyStr": "174 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "FranTech Solutions FranTech Solutions",
+      "ip": [
+        "2605:6400:30:fde8:2333:d3ff:618:375a",
+        "104.244.77.87"
+      ],
+      "added": "7-6-2023"
+    },
+    {
+      "url": "udp://p2p.publictracker.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "11-6-2023"
+    },
+    {
+      "url": "udp://ttk2.nbaonlineservice.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 1216,
+      "latencyStr": "1216 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "OVH SAS",
+      "ip": [
+        "54.39.48.3"
+      ],
+      "added": "18-6-2023"
+    },
+    {
+      "url": "udp://odd-hd.fr:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 246,
+      "latencyStr": "246 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "Online S.A.S.",
+      "ip": [
+        "195.154.235.156"
+      ],
+      "added": "18-6-2023"
+    },
+    {
+      "url": "udp://mikrotik2.draatman.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "6-8-2023"
+    },
+    {
+      "url": "http://bt.xcty.eu.org:2095/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": 785,
+      "latencyStr": "785 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3032::ac43:b446",
+        "2606:4700:3030::6815:337d",
+        "172.67.180.70",
+        "104.21.51.125"
+      ],
+      "added": "15-10-2023"
+    },
+    {
+      "url": "https://tracker.cloudit.top:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "20-10-2023"
+    },
+    {
+      "url": "https://bt.080609.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "21-10-2023"
+    },
+    {
+      "url": "https://tracker.jdx3.org:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "24-11-2023"
+    },
+    {
+      "url": "udp://tracker.jamesthebard.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "3-1-2024"
+    },
+    {
+      "url": "udp://tracker.vds.nz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "8-1-2024"
+    },
+    {
+      "url": "udp://r.l5.ca:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Bell Canada",
+      "ip": [
+        "174.95.80.183"
+      ],
+      "added": "13-1-2024"
+    },
+    {
+      "url": "https://track3r.site:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "9 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "1-3-2024"
+    },
+    {
+      "url": "udp://tracker.draatman.uk:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 210,
+      "latencyStr": "210 ms",
+      "country": "Switzerland",
+      "countryCode": "ch",
+      "network": "Serverd SAS",
+      "ip": [
+        "193.168.144.86"
+      ],
+      "added": "7-3-2024"
+    },
+    {
+      "url": "http://t1.aag.moe:17715/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "16-3-2024"
+    },
+    {
+      "url": "udp://seedpeer.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 165,
+      "latencyStr": "165 ms",
+      "country": "Finland",
+      "countryCode": "fi",
+      "network": "RIPE Network Coordination Centre",
+      "ip": [
+        "85.76.81.227"
+      ],
+      "added": "18-3-2024"
+    },
+    {
+      "url": "udp://amigacity.xyz:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 154,
+      "latencyStr": "154 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Akamai Technologies, Inc.",
+      "ip": [
+        "96.126.98.54"
+      ],
+      "added": "20-3-2024"
+    },
+    {
+      "url": "udp://tracker.darkness.services:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "WorkTitans B.V. WorkTitans B.V.",
+      "ip": [
+        "2a09:7c41:0:f::1",
+        "138.124.183.78"
+      ],
+      "added": "14-4-2024"
+    },
+    {
+      "url": "udp://tracker.deadorbit.nl:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "9 months",
+      "latency": 76,
+      "latencyStr": "76 ms",
+      "country": "Moldova",
+      "countryCode": "md",
+      "network": "Alexhost SRL",
+      "ip": [
+        "194.110.247.18"
+      ],
+      "added": "26-4-2024"
+    },
+    {
+      "url": "udp://tracker.silksa.co.za:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 447,
+      "latencyStr": "447 ms",
+      "country": "South Africa",
+      "countryCode": "za",
+      "network": "Rackzar (Pty) Ltd",
+      "ip": [
+        "102.209.21.172"
+      ],
+      "added": "3-5-2024"
+    },
+    {
+      "url": "udp://tracker-us.silksa.co.za:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "3-5-2024"
+    },
+    {
+      "url": "udp://tk2.trackerservers.com:8080/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "29-5-2024"
+    },
+    {
+      "url": "https://threads.canofsocks.com:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 382,
+      "latencyStr": "382 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3032::6815:342a",
+        "2606:4700:3036::ac43:c311",
+        "172.67.195.17",
+        "104.21.52.42"
+      ],
+      "added": "11-6-2024"
+    },
+    {
+      "url": "udp://tracker.xor.st:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "4-7-2024"
+    },
+    {
+      "url": "http://open.tracker.ink:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "6-7-2024"
+    },
+    {
+      "url": "http://mc.itscraftsoftware.my.id:8804/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "Indonesia",
+      "countryCode": "id",
+      "network": "PT Perwira Media Solusi",
+      "ip": [
+        "82.41.42.160"
+      ],
+      "added": "5-9-2024"
+    },
+    {
+      "url": "udp://d13bttrck.duckdns.org:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 248,
+      "latencyStr": "248 ms",
+      "country": "Austria",
+      "countryCode": "at",
+      "network": "Aeza International LTD",
+      "ip": [
+        "78.153.130.109"
+      ],
+      "added": "10-9-2024"
+    },
+    {
+      "url": "https://tracker.bjut.jp:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "15-9-2024"
+    },
+    {
+      "url": "https://api.ipv4online.uk:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "7 months",
+      "latency": 10349,
+      "latencyStr": "10349 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Google LLC Google LLC",
+      "ip": [
+        "34.8.38.57",
+        "34.8.196.142"
+      ],
+      "added": "16-9-2024"
+    },
+    {
+      "url": "udp://tracker.1048576.cn:17272/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "17-9-2024"
+    },
+    {
+      "url": "http://tr1.aag.moe:2095/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "26-9-2024"
+    },
+    {
+      "url": "udp://tr3.ysagin.top:2715/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 28,
+      "latencyStr": "28 ms",
+      "country": "The Netherlands",
+      "countryCode": "nl",
+      "network": "Managed by ISPIRIA Networks Scalaxy B.V.",
+      "ip": [
+        "2a03:3f40:2:203:0:73:0:10",
+        "38.180.157.12"
+      ],
+      "added": "22-10-2024"
+    },
+    {
+      "url": "http://kiryuu-test.mywaifu.best:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 597,
+      "latencyStr": "597 ms",
+      "country": "India",
+      "countryCode": "in",
+      "network": "Oracle Corporation",
+      "ip": [
+        "152.67.8.255"
+      ],
+      "added": "28-10-2024"
+    },
+    {
+      "url": "http://saltwood.top:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 461,
+      "latencyStr": "461 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Chinanet",
+      "ip": [
+        "116.5.128.30"
+      ],
+      "added": "29-10-2024"
+    },
+    {
+      "url": "udp://tracker4.leechshield.link:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "31-10-2024"
+    },
+    {
+      "url": "https://tracker.leechshield.link:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 140,
+      "latencyStr": "140 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3030::ac43:91d7",
+        "2606:4700:3034::6815:1c68",
+        "104.21.28.104",
+        "172.67.145.215"
+      ],
+      "added": "31-10-2024"
+    },
+    {
+      "url": "udp://tk4.leechshield.link:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "5-11-2024"
+    },
+    {
+      "url": "http://tracker2.itzmx.com:6961/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 230,
+      "latencyStr": "230 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "LLC Baxet",
+      "ip": [
+        "2a00:b700:3::af"
+      ],
+      "added": "16-11-2024"
+    },
+    {
+      "url": "http://tracker1.itzmx.com:8080/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": 716,
+      "latencyStr": "716 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "104.19.22.28",
+        "104.19.22.26",
+        "104.19.22.24",
+        "104.19.22.27",
+        "104.19.22.23",
+        "104.19.22.29",
+        "104.19.22.32",
+        "104.19.22.25",
+        "104.19.22.22",
+        "104.19.22.31",
+        "104.19.22.30"
+      ],
+      "added": "16-11-2024"
+    },
+    {
+      "url": "http://tracker3.itzmx.com:6961/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 238,
+      "latencyStr": "238 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "LLC Baxet",
+      "ip": [
+        "176.32.38.223"
+      ],
+      "added": "25-11-2024"
+    },
+    {
+      "url": "http://tracker4.itzmx.com:2710/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 225,
+      "latencyStr": "225 ms",
+      "country": "Russia",
+      "countryCode": "ru",
+      "network": "LLC Baxet",
+      "ip": [
+        "212.60.5.203"
+      ],
+      "added": "25-11-2024"
+    },
+    {
+      "url": "udp://tracker.valete.tf:9999/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "30-11-2024"
+    },
+    {
+      "url": "http://tracker.netmap.top:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "6 months",
+      "latency": 339,
+      "latencyStr": "339 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Shenzhen Tencent Computer Systems Company Limited China Internet Network Information Center",
+      "ip": [
+        "2402:4e00:c032:3400:1420:bd5e:da3e:1",
+        "1.117.67.94"
+      ],
+      "added": "1-12-2024"
+    },
+    {
+      "url": "udp://rt.tace.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 225,
+      "latencyStr": "225 ms",
+      "country": "Latvia",
+      "countryCode": "lv",
+      "network": "Virtual Data Center Inc",
+      "ip": [
+        "146.19.84.85"
+      ],
+      "added": "10-12-2024"
+    },
+    {
+      "url": "http://fleira.no:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 121,
+      "latencyStr": "121 ms",
+      "country": "Norway",
+      "countryCode": "no",
+      "network": "NTE Bredband",
+      "ip": [
+        "148.252.75.241"
+      ],
+      "added": "10-12-2024"
+    },
+    {
+      "url": "udp://db.koikia.eu:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 167,
+      "latencyStr": "167 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "OVH SAS",
+      "ip": [
+        "51.255.8.131"
+      ],
+      "added": "22-12-2024"
+    },
+    {
+      "url": "http://s926723.ha016.t.mydomain.zone:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "5-1-2025"
+    },
+    {
+      "url": "https://tracker.aburaya.live:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "7-1-2025"
+    },
+    {
+      "url": "https://tracker.cybar.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "17-1-2025"
+    },
+    {
+      "url": "https://tracker.nanoha.org:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "2-2-2025"
+    },
+    {
+      "url": "https://9001-digitaladeel-bkwl-launch-oovrfk6mpz.app.codeanywhere.com:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Amazon.com, Inc. Amazon.com, Inc. Amazon.com, Inc.",
+      "ip": [
+        "3.135.107.161",
+        "16.58.168.148",
+        "3.131.179.126"
+      ],
+      "added": "5-2-2025"
+    },
+    {
+      "url": "https://bt2.080609.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 357,
+      "latencyStr": "357 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3037::6815:1f3a",
+        "2606:4700:3035::ac43:af34",
+        "172.67.175.52",
+        "104.21.31.58"
+      ],
+      "added": "8-2-2025"
+    },
+    {
+      "url": "udp://brokenhelix.loseyourip.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "20-2-2025"
+    },
+    {
+      "url": "udp://torrent.i.ng:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "9 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "14-3-2025"
+    },
+    {
+      "url": "udp://files.project-cataclysm.ru:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 year",
+      "latency": 178,
+      "latencyStr": "178 ms",
+      "country": "Latvia",
+      "countryCode": "lv",
+      "network": "RETN Limited",
+      "ip": [
+        "155.212.230.116"
+      ],
+      "added": "18-3-2025"
+    },
+    {
+      "url": "http://tracker.lyretain.site:2710/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": 960,
+      "latencyStr": "960 ms",
+      "country": "China",
+      "countryCode": "cn",
+      "network": "Chinanet",
+      "ip": [
+        "27.184.217.21"
+      ],
+      "added": "20-3-2025"
+    },
+    {
+      "url": "udp://ec2-18-191-163-220.us-east-2.compute.amazonaws.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 months",
+      "latency": 225,
+      "latencyStr": "225 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Amazon.com, Inc.",
+      "ip": [
+        "18.191.163.220"
+      ],
+      "added": "21-3-2025"
+    },
+    {
+      "url": "http://ns3109441.mypdns.org:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 16,
+      "latencyStr": "16 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "OVH SAS OVH SAS",
+      "ip": [
+        "2001:41d0:700:133e::9",
+        "54.36.110.62"
+      ],
+      "added": "7-4-2025"
+    },
+    {
+      "url": "https://tracker.expli.top:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "6 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "9-4-2025"
+    },
+    {
+      "url": "http://chihaya.de:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "10 months",
+      "latency": 14,
+      "latencyStr": "14 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "Google LLC",
+      "ip": [
+        "8.8.8.8"
+      ],
+      "added": "14-4-2025"
+    },
+    {
+      "url": "http://joczo.duckdns.org:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "9 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "Hungary",
+      "countryCode": "hu",
+      "network": "Magyar Telekom",
+      "ip": [
+        "78.92.193.173"
+      ],
+      "added": "5-6-2025"
+    },
+    {
+      "url": "udp://v74853.hosted-by-vdsina.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": 22,
+      "latencyStr": "22 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "Servers Tech Fzco",
+      "ip": [
+        "89.110.76.229"
+      ],
+      "added": "24-6-2025"
+    },
+    {
+      "url": "https://tracker.guguan.us.kg:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "5-7-2025"
+    },
+    {
+      "url": "https://tracker.cutie.dating:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "12-7-2025"
+    },
+    {
+      "url": "https://ttracker.just-h.party:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "8 months",
+      "latency": 100,
+      "latencyStr": "100 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:20::ac43:4909",
+        "2606:4700:20::681a:ba5",
+        "2606:4700:20::681a:aa5",
+        "172.67.73.9",
+        "104.26.10.165",
+        "104.26.11.165"
+      ],
+      "added": "13-7-2025"
+    },
+    {
+      "url": "http://asiatorrent.ddns.net:51413/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "4 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "14-7-2025"
+    },
+    {
+      "url": "http://tracker.tricitytorrents.com:2710/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 1815,
+      "latencyStr": "1815 ms",
+      "country": "Hong Kong",
+      "countryCode": "hk",
+      "network": "CGI GLOBAL LIMITED CGI GLOBAL LIMITED",
+      "ip": [
+        "2a13:7c00:7:4:f816:3eff:fec9:3064",
+        "45.38.42.87"
+      ],
+      "added": "22-7-2025"
+    },
+    {
+      "url": "https://opentracker.8880085.xyz:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "7 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "3-8-2025"
+    },
+    {
+      "url": "udp://bt.bontal.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 22,
+      "latencyStr": "22 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "104.248.85.59"
+      ],
+      "added": "7-8-2025"
+    },
+    {
+      "url": "udp://vps-dd0a0715.vps.ovh.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "7 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "10-8-2025"
+    },
+    {
+      "url": "https://tracker.alaskantf.com:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 month",
+      "latency": 2444,
+      "latencyStr": "2444 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "Hetzner Online GmbH",
+      "ip": [
+        "5.75.253.124"
+      ],
+      "added": "21-8-2025"
+    },
+    {
+      "url": "udp://tracker.tnl.one:8000/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": 316,
+      "latencyStr": "316 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "Ouiheberg Sarl Ouiheberg Sarl",
+      "ip": [
+        "2a0e:4007:fffe:703::60",
+        "88.151.197.103"
+      ],
+      "added": "15-9-2025"
+    },
+    {
+      "url": "udp://yuki.bt.bontal.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 344,
+      "latencyStr": "344 ms",
+      "country": "Singapore",
+      "countryCode": "sg",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "178.128.94.74"
+      ],
+      "added": "17-9-2025"
+    },
+    {
+      "url": "https://tracker.belmult.online:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 40,
+      "latencyStr": "40 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2606:4700:3031::6815:3fd3",
+        "2606:4700:3032::ac43:965f",
+        "104.21.63.211",
+        "172.67.150.95"
+      ],
+      "added": "19-9-2025"
+    },
+    {
+      "url": "udp://burmese.app:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 566,
+      "latencyStr": "566 ms",
+      "country": "Singapore",
+      "countryCode": "sg",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "2400:6180:0:d2:0:2:2bda:e000"
+      ],
+      "added": "22-9-2025"
+    },
+    {
+      "url": "http://t.al.uy:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "27-9-2025"
+    },
+    {
+      "url": "http://tracker.chaoz.li:2710/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "5 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "12-10-2025"
+    },
+    {
+      "url": "https://bittracker.nekosunevr.co.uk:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "4 months",
+      "latency": 10007,
+      "latencyStr": "10007 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "Contabo GmbH",
+      "ip": [
+        "84.46.248.182"
+      ],
+      "added": "17-11-2025"
+    },
+    {
+      "url": "http://play.aimisayo.com:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "7-12-2025"
+    },
+    {
+      "url": "udp://tracker.x6c.co:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": 259,
+      "latencyStr": "259 ms",
+      "country": "United States",
+      "countryCode": "us",
+      "network": "x6c x6c",
+      "ip": [
+        "2602:f9f4::98",
+        "23.165.136.98"
+      ],
+      "added": "9-12-2025"
+    },
+    {
+      "url": "udp://laestrygonian.ooguy.com:9001/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "9-12-2025"
+    },
+    {
+      "url": "udp://lotus-eater.mywire.org:9001/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "3 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "15-12-2025"
+    },
+    {
+      "url": "udp://node02.torrentonline.cc:42069/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "23 days",
+      "latency": 11957,
+      "latencyStr": "11957 ms",
+      "country": "Germany",
+      "countryCode": "de",
+      "network": "objx.net Oracle Corporation",
+      "ip": [
+        "2607:ffd8:ff01:21::a",
+        "152.70.52.42"
+      ],
+      "added": "18-12-2025"
+    },
+    {
+      "url": "http://trackr.appolon.dev:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "7-1-2026"
+    },
+    {
+      "url": "https://tracker.bug38.com:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 month",
+      "latency": 19428,
+      "latencyStr": "19428 ms",
+      "country": "France",
+      "countryCode": "fr",
+      "network": "BOUYGUES Telecom Orange",
+      "ip": [
+        "176.172.42.174",
+        "2.7.48.9"
+      ],
+      "added": "8-1-2026"
+    },
+    {
+      "url": "http://tracker.file09.com:80/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "8-1-2026"
+    },
+    {
+      "url": "udp://tracker.orsvarn.com:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 53,
+      "latencyStr": "53 ms",
+      "country": "Sweden",
+      "countryCode": "se",
+      "network": "Bahnhof AB",
+      "ip": [
+        "81.170.132.66"
+      ],
+      "added": "9-1-2026"
+    },
+    {
+      "url": "udp://anna.bt.bontal.net:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "2 months",
+      "latency": 49,
+      "latencyStr": "49 ms",
+      "country": "Netherlands",
+      "countryCode": "nl",
+      "network": "DigitalOcean, LLC",
+      "ip": [
+        "2a03:b0c0:2:f0::d8db:b001"
+      ],
+      "added": "24-1-2026"
+    },
+    {
+      "url": "http://tracker.umunu.ru:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "1 month",
+      "latency": null,
+      "latencyStr": "",
+      "country": "United Kingdom",
+      "countryCode": "gb",
+      "network": "CloudFLARENET-EU CloudFLARENET-EU Cloudflare, Inc. Cloudflare, Inc.",
+      "ip": [
+        "2a06:98c1:3120::3",
+        "2a06:98c1:3121::3",
+        "188.114.96.3",
+        "188.114.97.3"
+      ],
+      "added": "30-1-2026"
+    },
+    {
+      "url": "udp://navegador.click:6969/announce",
+      "protocol": "udp",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "18 days",
+      "latency": 229,
+      "latencyStr": "229 ms",
+      "country": "Canada",
+      "countryCode": "ca",
+      "network": "GoCodeIT Inc",
+      "ip": [
+        "170.39.230.119"
+      ],
+      "added": "15-2-2026"
+    },
+    {
+      "url": "http://tracker.imgdump.lol:6969/announce",
+      "protocol": "http",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "11 days",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "15-2-2026"
+    },
+    {
+      "url": "https://tracker.puvvadi.net:443/announce",
+      "protocol": "https",
+      "uptime": 0,
+      "uptimeStr": "0.00%",
+      "status": "down",
+      "statusDuration": "19 days",
+      "latency": null,
+      "latencyStr": "",
+      "country": "",
+      "countryCode": "",
+      "network": "",
+      "ip": [
+        "Can't resolve IP"
+      ],
+      "added": "16-2-2026"
+    }
+  ],
+  "lastUpdated": "2026-03-13T20:55:31.200Z",
+  "source": "newtrackon + ngosang/trackerslist",
+  "totalCount": 291
+}

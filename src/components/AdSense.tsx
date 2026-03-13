@@ -1,7 +1,7 @@
 'use client';
 
 import Script from 'next/script';
-import { useEffect } from 'react';
+import { useEffect, useRef, useState } from 'react';
 
 // Load AdSense script once globally
 export function AdSenseScript() {
@@ -30,19 +30,54 @@ interface AdUnitProps {
 
 export function AdUnit({ slot, format = 'auto', responsive = true, className = '', style }: AdUnitProps) {
   const clientId = process.env.NEXT_PUBLIC_ADSENSE_CLIENT_ID;
+  const adRef = useRef<HTMLDivElement>(null);
+  const [adPushed, setAdPushed] = useState(false);
 
   useEffect(() => {
-    if (!clientId) return;
-    try {
-      // eslint-disable-next-line @typescript-eslint/no-explicit-any
-      ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
-    } catch {
-      // AdSense not loaded yet
-    }
-  }, [clientId]);
+    if (!clientId || adPushed) return;
+
+    // Wait until the container has a non-zero width before pushing the ad
+    // This prevents the "No slot size for availableWidth=0" error
+    const container = adRef.current;
+    if (!container) return;
+
+    const tryPushAd = () => {
+      if (container.offsetWidth > 0) {
+        try {
+          // eslint-disable-next-line @typescript-eslint/no-explicit-any
+          ((window as any).adsbygoogle = (window as any).adsbygoogle || []).push({});
+          setAdPushed(true);
+        } catch {
+          // AdSense not loaded yet
+        }
+        return true;
+      }
+      return false;
+    };
+
+    // Try immediately
+    if (tryPushAd()) return;
+
+    // If container isn't visible yet, observe for visibility
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          // Small delay to ensure layout is complete
+          requestAnimationFrame(() => {
+            tryPushAd();
+          });
+          observer.disconnect();
+        }
+      },
+      { threshold: 0.01 }
+    );
+
+    observer.observe(container);
+
+    return () => observer.disconnect();
+  }, [clientId, adPushed]);
 
   if (!clientId) {
-    // Show placeholder in development
     return (
       <div className={`flex items-center justify-center border border-dashed border-gray-300 dark:border-gray-700 rounded-lg text-xs text-gray-400 ${className}`} style={style}>
         Ad Space
@@ -51,7 +86,7 @@ export function AdUnit({ slot, format = 'auto', responsive = true, className = '
   }
 
   return (
-    <div className={className}>
+    <div ref={adRef} className={className}>
       <ins
         className="adsbygoogle"
         style={{ display: 'block', ...style }}

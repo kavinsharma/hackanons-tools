@@ -110,7 +110,7 @@ export default function TrackerPage({ data }: Props) {
       {/* Ad Slot: Top Banner */}
       <div className="w-full border-b border-gray-200 dark:border-gray-800">
         <div className="max-w-6xl mx-auto px-4 py-3">
-          <AdUnit slot="TOP_BANNER_SLOT" format="auto" className="min-h-[90px]" />
+          <AdUnit slot="6403654298" format="auto" className="min-h-[90px]" />
         </div>
       </div>
 
@@ -330,7 +330,7 @@ export default function TrackerPage({ data }: Props) {
 
             {/* Ad Slot: Mid Content */}
             <div className="my-10">
-              <AdUnit slot="MID_CONTENT_SLOT" format="rectangle" className="min-h-[250px]" />
+              <AdUnit slot="1945534536" format="rectangle" className="min-h-[250px]" />
             </div>
 
             {/* How To Use */}
@@ -401,7 +401,7 @@ export default function TrackerPage({ data }: Props) {
 
             {/* Ad Slot: Before FAQ */}
             <div className="my-10">
-              <AdUnit slot="BEFORE_FAQ_SLOT" format="auto" className="min-h-[100px]" />
+              <AdUnit slot="8207690551" format="auto" className="min-h-[100px]" />
             </div>
 
             {/* Info Section */}
@@ -484,7 +484,7 @@ export default function TrackerPage({ data }: Props) {
           {/* Sidebar */}
           <aside className="hidden lg:flex flex-col gap-5 sticky top-20">
             {/* Ad Slot: Sidebar Top */}
-            <AdUnit slot="SIDEBAR_TOP_SLOT" format="rectangle" className="min-h-[250px]" />
+            <AdUnit slot="7928488956" format="rectangle" className="min-h-[250px]" />
 
             {/* Quick Info */}
             <div className="p-6 bg-gray-50 dark:bg-gray-800/50 border border-gray-200 dark:border-gray-700 rounded-xl">
@@ -534,7 +534,7 @@ export default function TrackerPage({ data }: Props) {
             </div>
 
             {/* Ad Slot: Sidebar Sticky */}
-            <AdUnit slot="SIDEBAR_STICKY_SLOT" format="vertical" className="min-h-[600px]" />
+            <AdUnit slot="5581527211" format="vertical" className="min-h-[600px]" />
           </aside>
         </div>
       </main>
@@ -542,7 +542,7 @@ export default function TrackerPage({ data }: Props) {
       {/* Ad Slot: Bottom */}
       <div className="border-t border-gray-200 dark:border-gray-800">
         <div className="max-w-6xl mx-auto px-4 py-5">
-          <AdUnit slot="BOTTOM_BANNER_SLOT" format="auto" className="min-h-[90px]" />
+          <AdUnit slot="7266758958" format="auto" className="min-h-[90px]" />
         </div>
       </div>
 
